@@ -2,5 +2,7 @@
     "name": "Ozys",
     "eth_address": "",
     "homepage": "https://orbitchain.io",
-    "contact": "help@orbitchain.io"
+    "contact": "help@orbitchain.io",
+    "location": "KOREA",
+    "logo": "https://static-allbit.s3.amazonaws.com/img/orbit/favicon.png",
 }
