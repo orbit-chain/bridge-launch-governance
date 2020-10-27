@@ -1,6 +1,6 @@
 # bridge-launch-governance
 
 ## Step
-- upload address info into repository
+- upload governance info into repository [sample](./ozys-ethvault/ozys.json)
 - download vault settings file
   - [allbit-ethvault](./ozys-ethvault/settings.js)
