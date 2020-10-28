@@ -34,12 +34,12 @@ module.exports = {
     // Node Endpoints
     Endpoints : {
         Orbit: {
-            rpc : "http://orbitchain",
-            socket: "ws://orbitchain",
+            rpc : "https://bridge-en.orbitchain.io:7443",
+            socket: "wss://bridge-en.orbitchain.io:7444",
         },
         Eth : {
-            rpc : "http://infura",
-            socket : "ws://infura",
+            rpc : "https://mainnet.infura.io/[PROJECT_ID]",
+            socket : "wss://mainnet.infura.io/[PROJECT_ID]",
         },
         Klaytn: {
             rpc: "https://api.cypress.klaytn.net:8651",
