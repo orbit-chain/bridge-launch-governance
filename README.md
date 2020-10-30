@@ -9,6 +9,7 @@
 - The *settings.js* file for each vault is here
   - [ozys-ethvault](./ozys-ethvault/settings.js)
 - place your validator private key in *settings.js*
+- if using [infura](https://infura.io) for eth node, place your infura project id in *settings.js* 
 - replace file into [bridge-docker](https://github.com/orbit-chain/bridge-dockerize)
 
 ```bash
