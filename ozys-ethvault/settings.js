@@ -61,4 +61,11 @@ module.exports = {
         TYPE: "PK",
         DATA: "0000000000000000000000000000000000000000000000000000000000000000",
     },
+    
+    VALIDATOR_MONITOR: {
+        Ozys: {
+            Endpoint: "https://bridge-en.orbitchain:7743/v1/validator/report",
+            Interval: 60 * 1000,
+        },
+    },
 }
