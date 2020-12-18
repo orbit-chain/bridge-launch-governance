@@ -3,6 +3,7 @@ module.exports = {
     chainList: [
         'eth',
         'klaytn',
+        'icon',
     ],
 
     // Bridge Addresses
