@@ -11,13 +11,19 @@ module.exports = {
         OrbitBridgeHubContract: "0xb5680a55d627c52de992e3ea52a86f19da475399",
         EthBridgeContract: "0x78d80c33f23a3395c52b3a8c0d0b12253771b9f7",
         KlaytnBridgeContract: "0x1af95905bb0042803f90e36d79d13aea6cd58969",
+        IconBridgeContract: "0xa7891d03e9357b6b0002bccdf3b744f51a082187",
         MessageMultiSigWallet: {
             Hub: "0xfffec9385a40a12f8526fefc0036b6fc44b68092",
             Eth: "0xfffec9385a40a12f8526fefc0036b6fc44b68092",
             Klaytn: "0xfffec9385a40a12f8526fefc0036b6fc44b68092",
+            Icon: "0xfffec9385a40a12f8526fefc0036b6fc44b68092",
         },
         Eth: {
             EthVaultContract: "0x1bf68a9d1eaee7826b3593c20a0ca93293cb489a",
+        },
+        Icon: {
+            IconMinterContract: "cx0eb215b6303142e37c0c9123abd1377feb423f0e",
+            MessageMultiSigWallet: "cxa032c913d5d9b7577e2b19f39d91985e5c260577",
         },
         Klay: {
             KlaytnMinterContract: "0x60070F5D2e1C1001400A04F152E7ABD43410F7B9",
@@ -54,6 +60,13 @@ module.exports = {
                 accessKeyId: "",
                 secretAccessKey: ""
             }
+        },
+        Icon: {
+            api: 'https://ctz.solidwallet.io/api/v3',
+            rpc: 'https://ctz.solidwallet.io/api/v3',
+            debug: 'https://ctz.solidwallet.io/api/debug/v3',
+            version: 3,
+            nid: 1
         },
         Parser: {
             api: "http://localhost:8084",
