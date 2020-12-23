@@ -12,7 +12,7 @@ module.exports = {
         OrbitBridgeHubContract: "0xb5680a55d627c52de992e3ea52a86f19da475399",
         EthBridgeContract: "0x78d80c33f23a3395c52b3a8c0d0b12253771b9f7",
         KlaytnBridgeContract: "0x1af95905bb0042803f90e36d79d13aea6cd58969",
-        IconBridgeContract: "0xa7891d03e9357b6b0002bccdf3b744f51a082187",
+        IconBridgeContract: "0x6819374cb320d1184a681e2b53ad858d16b9c8fa",
         MessageMultiSigWallet: {
             Hub: "0xfffec9385a40a12f8526fefc0036b6fc44b68092",
             Eth: "0xfffec9385a40a12f8526fefc0036b6fc44b68092",
