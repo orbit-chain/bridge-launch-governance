@@ -1,23 +1,27 @@
 module.exports = {
     // operating chain list
     chainList: [
-        'eth',
-        'klaytn',
-        'icon',
+        'eth-v1',
+        'klaytn-v1',
+        'icon-v1',
+        'eth-v2',
+        'klaytn-v2',
+        'orbit',
     ],
 
     // Bridge Addresses
     BridgeAddress: {
         OrbitHubContract: "0xb5680a55d627c52de992e3ea52a86f19da475399",
-        OrbitBridgeHubContract: "0xb5680a55d627c52de992e3ea52a86f19da475399",
         EthBridgeContract: "0x78d80c33f23a3395c52b3a8c0d0b12253771b9f7",
         KlaytnBridgeContract: "0x1af95905bb0042803f90e36d79d13aea6cd58969",
-        IconBridgeContract: "0xa7891d03e9357b6b0002bccdf3b744f51a082187",
+        IconBridgeContract: "0x6819374cb320d1184a681e2b53ad858d16b9c8fa",
+        OrbitBridgeContract: "0x77a49649964a186Fd2b8754758c39c9438a6E9aB",
         MessageMultiSigWallet: {
             Hub: "0xfffec9385a40a12f8526fefc0036b6fc44b68092",
             Eth: "0xfffec9385a40a12f8526fefc0036b6fc44b68092",
             Klaytn: "0xfffec9385a40a12f8526fefc0036b6fc44b68092",
             Icon: "0xfffec9385a40a12f8526fefc0036b6fc44b68092",
+            Orbit: "0xfffec9385a40a12f8526fefc0036b6fc44b68092",
         },
         Eth: {
             EthVaultContract: "0x1bf68a9d1eaee7826b3593c20a0ca93293cb489a",
@@ -29,6 +33,10 @@ module.exports = {
         Klay: {
             KlaytnMinterContract: "0x60070F5D2e1C1001400A04F152E7ABD43410F7B9",
             MessageMultiSigWallet: "0x7eAF19361f709A1e4456da6A6DAA044821Af8B37",
+        },
+        Orbit: {
+            OrbitMinterContract: "0x1b57Ce997Ca6a009ce54bB2d37DEbEBadFDbBb06",
+            MessageMultiSigWallet: "0xfffec9385a40a12f8526fefc0036b6fc44b68092",
         },
         Governance: {
             Chain: "ETH",
@@ -73,7 +81,7 @@ module.exports = {
             api: "http://localhost:8084",
         },
         Syncer: {
-            api: "http://localhost:9797/v1", 
+            api: "http://localhost:9797/v1",
         },
     },
 
@@ -85,7 +93,7 @@ module.exports = {
         TYPE: "PK",
         DATA: "0000000000000000000000000000000000000000000000000000000000000000",
     },
-    
+
     VALIDATOR_MONITOR: {
         Ozys: {
             Endpoint: "https://bridge-en.orbitchain.io:7743/v1/validator/report",
