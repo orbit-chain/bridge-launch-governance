@@ -58,9 +58,7 @@ module.exports = {
             socket : "wss://mainnet.infura.io/ws/v3/[PROJECT_ID]",
         },
         Klaytn: {
-            isKas: false,
-            rpc: "https://api.cypress.klaytn.net:8651",
-            socket: "wss://api.cypress.klaytn.net:8652",
+            isKas: true,
             Kas: {
                 // KAS Default
                 rpc: "https://node-api.klaytnapi.com/v1/klaytn",
