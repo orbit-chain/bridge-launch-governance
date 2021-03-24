@@ -6,6 +6,7 @@ module.exports = {
         'icon-v1',
         'eth-v2',
         'klaytn-v2',
+        'icon-v2',
         'orbit',
     ],
 
