@@ -1,0 +1,11 @@
+{
+    "name": "DSRV",
+    "eth_address": "0xb0330670d77610fa29f06d985117aed1299fcf9a",
+    "xrp_address": "rDqGLZ2ubh8BNMwfhynVhVnT8RSe4JseHG",
+    "xrp_address_converted_for_orbit_mig": "0x008cc2474a90b8aceb766cdba9376b0c3b5d65f33fcbec6223",
+    "homepage": "https://dsrvlabs.com/",
+    "contact": "contact@dsrvlabs.com",
+    "location": "KOREA",
+    "logo": "https://s3.amazonaws.com/keybase_processed_uploads/785f1bdfd27e0b5aeebe10f0635beb05_360_360.jpg",
+    "description": "South Korea-based validator with a focus on technical contribution and community onboarding for innovative blockchains."
+}
