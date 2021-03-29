@@ -5,6 +5,7 @@
 - eth_address required for ethvault
 - eth_address, terra_pubkey and signed_message required for terravault
 - eth_address, xrp_address, xrp_address_converted_for_orbit_mig required for xrpvault
+  - [XRP KEY UTIL DOC](./xrpvault/keyUtil.md)
 
 ## Launch
 - The *settings.js* file for each vault is here
