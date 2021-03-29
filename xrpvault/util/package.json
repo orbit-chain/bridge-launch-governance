@@ -1,0 +1,13 @@
+{
+  "name": "xrp-util",
+  "version": "1.0.0",
+  "description": "support launch gov",
+  "main": "secp256k1.js",
+  "author": "ljw",
+  "license": "MIT",
+  "dependencies": {
+    "elliptic": "6.5.3",
+    "ripple-keypairs": "0.10.1",
+    "ethereumjs-util": "^6.0.0"
+  }
+}

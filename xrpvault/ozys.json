@@ -1,0 +1,11 @@
+{
+    "name": "Ozys",
+    "eth_address": "0xE6C7eE65db34f4cA94Dc6c9c76979aB47f07b8Fa",
+    "xrp_address": "r3nkdm4RuTiuSiXpKCtMHeVboFKZ29eMJi",
+    "xrp_address_converted_for_orbit_mig": "0x004daef7d2e31864ba9bbd1de28c980666d20cfd8e286ebcc3",
+    "homepage": "https://orbitchain.io",
+    "contact": "help@orbitchain.io",
+    "location": "KOREA",
+    "logo": "https://static-allbit.s3.amazonaws.com/img/orbit/favicon.png",
+    "description": "The Orbit project is building the de facto standard of blockchain in the world."
+}
