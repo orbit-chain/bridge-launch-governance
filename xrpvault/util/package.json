@@ -6,7 +6,7 @@
   "author": "ljw",
   "license": "MIT",
   "dependencies": {
-    "elliptic": "6.5.3",
+    "elliptic": "^6.0.0",
     "ripple-keypairs": "0.10.1",
     "ethereumjs-util": "^6.0.0"
   }
