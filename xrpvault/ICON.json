@@ -1,0 +1,11 @@
+{
+  "name": "ICON Foundation",
+  "eth_address": "0x1c0cd56f1c3e2cf13b9b44dbe5529104bade543e",
+  "xrp_address": "rJQe1sX7a4zCJufMtNFaCZi8vxTRk37kRR",
+  "xrp_address_converted_for_orbit_mig": "0x00bef34fcde65f89d7f1ce1cd430e0e2774389add4ceea161c",
+  "homepage": "https://icon.foundation",
+  "contact": "hello@icon.foundation",
+  "location": "Switzerland",
+  "logo": "https://icon.foundation/prep/logo256.png",
+  "description": "Launched in 2017, the ICON Foundation leads the ICON project, one of the largest blockchain networks in the world, with the vision to ‘Hyperconnect the World’. By using the high-performance blockchain engine, ‘loopchain’, ICON plans to connect various blockchain communities and build an environment where blockchain technology can be applied to the real world."
+}
