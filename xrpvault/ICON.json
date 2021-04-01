@@ -1,8 +1,8 @@
 {
   "name": "ICON Foundation",
-  "eth_address": "0x1c0cd56f1c3e2cf13b9b44dbe5529104bade543e",
-  "xrp_address": "rJQe1sX7a4zCJufMtNFaCZi8vxTRk37kRR",
-  "xrp_address_converted_for_orbit_mig": "0x00bef34fcde65f89d7f1ce1cd430e0e2774389add4ceea161c",
+  "eth_address": "0x2de13f1eed28479f90bfbc93ddb15f66d46633cc",
+  "xrp_address": "rsgzgJFcBJyTt3zdoLD42DDBcB9eQAXGR9",
+  "xrp_address_converted_for_orbit_mig": "0x001d809efa40e3393483e4c118e97f7e0ae1b4f6db6fd92944",
   "homepage": "https://icon.foundation",
   "contact": "hello@icon.foundation",
   "location": "Switzerland",
