@@ -3,7 +3,7 @@ module.exports = {
     chainList: [
         'klaytn-v2',
         'xrp',
-	'orbit',
+    	'orbit',
     ],
 
     // Bridge Addresses
@@ -42,19 +42,20 @@ module.exports = {
             socket: "wss://bridge-en.orbitchain.io:7444",
         },
         Klaytn: {
-	    // Using KAS
-	    isKas: true,
-	    {
-                // KAS Default
-                rpc: "https://node-api.klaytnapi.com/v1/klaytn",
-                chainId: 8217,
+            // Using KAS
+            isKas: true,
+            Kas: {
+                    // KAS Default
+                    rpc: "https://node-api.klaytnapi.com/v1/klaytn",
+                    chainId: 8217,
 
-                // Your Credential
-                accessKeyId: "",
-                secretAccessKey: "",
-	    },
+                    // Your Credential
+                    accessKeyId: "",
+                    secretAccessKey: "",
+            },
 
-	    // Using YOUR OWN NODE
+            // Using YOUR OWN NODE
+            isKas: false,
             rpc: "https://cypress-klaytn-node",
             socket: "wss://cypress-klaytn-node",
         },
