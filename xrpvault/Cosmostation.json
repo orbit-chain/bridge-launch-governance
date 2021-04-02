@@ -1,0 +1,11 @@
+{
+    "name": "Cosmostation",
+    "eth_address": "0xee700731710b06d33820968d2f3c6850abb86b00",
+    "xrp_address": "rMBffXnw6yGQBx6MqvyoonE3DAWDRbt59K",
+    "xrp_address_converted_for_orbit_mig": "0x00dd4bc7149264971602690487d74168b4e23451fbfeffeb3e",
+    "homepage": "https://www.cosmostation.io",
+    "contact": "admin@stamper.network",
+    "location": "Seoul, South Korea",
+    "logo": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/stamper/logo_256x256.png",
+    "description": "Enterprise-level validator node operator & end-user application developer. Stake with Cosmostation."
+}
