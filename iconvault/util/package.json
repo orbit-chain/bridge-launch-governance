@@ -1,0 +1,12 @@
+{
+  "name": "icon-util",
+  "version": "1.0.0",
+  "description": "support launch gov",
+  "main": "getWallet.js",
+  "author": "ljw",
+  "license": "MIT",
+  "dependencies": {
+      "ethereumjs-util": "^6.0.0",
+      "icon-sdk-js": "^0.0.18"
+  }
+}
