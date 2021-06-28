@@ -2,8 +2,7 @@
 {
     "name": "HashQuark",
     "eth_address": "0x358b1cbee19280b79c9eccfe4ac004b6c157e4f8",
-    "xrp_address": "r3pBZMEUSxupEGh1q4kfE1nEog91RDnky",
-    "xrp_address_converted_for_orbit_mig": "0x000153e6004348380163fe9547b0f64f46fea76ae07225b0a6",
+    "icon_address": "hxb0e43e25be007150d25c1739e48f4d964e1c4924",
     "homepage": "https://hashquark.io/",
     "contact": "contract@hashquark.io",
     "location": "Hong Kong",
