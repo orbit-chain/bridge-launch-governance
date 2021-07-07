@@ -6,7 +6,9 @@
   "author": "ljw",
   "license": "MIT",
   "dependencies": {
-      "ethereumjs-util": "^6.0.0",
-      "icon-sdk-js": "^0.0.18"
+    "ethereumjs-util": "^6.0.0",
+    "icon-sdk-js": "^0.0.18",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
   }
 }
