@@ -84,6 +84,8 @@ module.exports = {
     DEBUG: true,
     LOGLEVEL: 'debug',
 
+    ETH_CHAIN_ID: '0x1',
+
     // WIP: validator things.
     VALIDATOR_ACCOUNT: {
         TYPE: "PK",
