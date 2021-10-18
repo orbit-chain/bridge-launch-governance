@@ -1,0 +1,84 @@
+module.exports = {
+    // operating chain list
+    chainList: [
+        'celo',
+        'klaytn-v2',
+        'orbit',
+    ],
+
+    // Bridge Addresses
+    BridgeAddress: {
+        OrbitHubContract: "0xb5680a55d627c52de992e3ea52a86f19da475399",
+        KlaytnBridgeContract: "0x1af95905bb0042803f90e36d79d13aea6cd58969",
+        CeloBridgeContract: "0x9fae958393B59ccb5e707B274615e214c8BD0AE1",
+        OrbitBridgeContract: "0x77a49649964a186Fd2b8754758c39c9438a6E9aB",
+        MessageMultiSigWallet: {
+            Hub: "0xE665028E06Cab79928D8e607E0de99FfD7Eb76A7",
+            Klaytn: "0xE665028E06Cab79928D8e607E0de99FfD7Eb76A7",
+            Celo: "0xE665028E06Cab79928D8e607E0de99FfD7Eb76A7",
+            Orbit: "0xE665028E06Cab79928D8e607E0de99FfD7Eb76A7"
+        },
+        Klay: {
+            KlaytnMinterContract: "0x979cD0826C2bf62703Ef62221a4feA1f23da3777",
+            MessageMultiSigWallet: "0xE665028E06Cab79928D8e607E0de99FfD7Eb76A7",
+        },
+        Celo: {
+            CeloVaultContract: "0x979cD0826C2bf62703Ef62221a4feA1f23da3777",
+            MessageMultiSigWallet: "0xE665028E06Cab79928D8e607E0de99FfD7Eb76A7",
+            CeloAdminContract: "0x6a1cf2e4b8DF2C2707e34cad35D8AF4535510F53",
+        },
+        Orbit: {
+            OrbitMinterContract: "0x979cD0826C2bf62703Ef62221a4feA1f23da3777",
+            MessageMultiSigWallet: "0xE665028E06Cab79928D8e607E0de99FfD7Eb76A7",
+        },
+        Governance: {
+            Chain: "CELO",
+            Address: "0x979cD0826C2bf62703Ef62221a4feA1f23da3777",
+            Bytes: "0x979cD0826C2bf62703Ef62221a4feA1f23da3777",
+            Id: "0x6c09d7b79b91a3d49c3648a1bbc811f1b99f16045218e72a597a7692580ccab1",
+        },
+    },
+
+    // Node Endpoints
+    Endpoints : {
+        Orbit: {
+            rpc : "https://bridge-en.orbitchain.io:7443",
+            socket: "wss://bridge-en.orbitchain.io:7444",
+        },
+        Klaytn: {
+            isKas: true,
+            Kas: {
+                // KAS Default
+                rpc: "https://node-api.klaytnapi.com/v1/klaytn",
+                chainId: 8217,
+
+                //TODO: Your Credential
+                accessKeyId: "",
+                secretAccessKey: ""
+            }
+        },
+        Celo: {
+            rpc: "https://forno.celo.org",
+            socket: "wss://forno.celo.org/ws",
+        },
+    },
+
+    DEBUG: true,
+    LOGLEVEL: 'debug',
+
+    CELO_GAS_PRICE: 5 * 10 ** 9,
+    CELO_CHAIN_ID: '0xa4ec',
+
+    //TODO: Replace PK
+    VALIDATOR_ACCOUNT: {
+        TYPE: "PK",
+        DATA: "0000000000000000000000000000000000000000000000000000000000000000",
+    },
+
+    VALIDATOR_MONITOR: {
+        Ozys: {
+            Endpoint: "https://bridge-en.orbitchain.io:7743/celovault/v1/validator/report",
+            Interval: 60 * 1000,
+        },
+    },
+}
