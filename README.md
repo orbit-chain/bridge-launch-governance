@@ -15,8 +15,8 @@
   - [xrpvault](./xrpvault/settings.js)
   - [bscvault](./bscvault/settings.js)
   - [celovaul](./celovault/settings.js)
-  - [klaytnvaul](./klaytnvault/settings.js)
-  - [hecovaul](./hecovault/settings.js)
+  - [klaytnvault](./klaytnvault/settings.js)
+  - [hecovault](./hecovault/settings.js)
 - place your validator private key in *settings.js*
 - if using [infura](https://infura.io) for eth node, place your infura project id in *settings.js* 
 - replace file into [bridge-docker](https://github.com/orbit-chain/bridge-dockerize)
