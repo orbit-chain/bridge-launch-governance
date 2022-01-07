@@ -158,7 +158,7 @@ module.exports = {
             socket: "wss://ws-mainnet.hecochain.com",
         },
         Matic: {
-            rpc : "https://rpc-mainnet.maticvigil.com",
+            rpc: "https://polygon-rpc.com",
             socket: "wss://rpc-mainnet.matic.quiknode.pro",
         },
         Moonriver: {
