@@ -113,11 +113,11 @@ module.exports = {
             socket: "https://api.avax.network/ext/bc/C/ws",
         },
         Bsc: {
-            rpc : "https://bsc-dataseed.binance.org",
+            rpc : ["https://bsc-dataseed.binance.org", "https://bsc.chain-node.orbitchain.io:7643",],
             socket: "wss://bsc-ws-node.nariox.org:443",
         },
         Celo: {
-            rpc: "https://forno.celo.org",
+            rpc: ["https://forno.celo.org", "https://celo.chain-node.orbitchain.io:7643"],
             socket: "wss://forno.celo.org/ws",
         },
         Fantom: {
@@ -145,7 +145,7 @@ module.exports = {
             }
         },
         Matic: {
-            rpc : "https://polygon-rpc.com",
+            rpc : ["https://polygon-rpc.com", "https://matic.chain-node.orbitchain.io:7643",],
             socket: "wss://rpc-mainnet.matic.quiknode.pro",
         },
         Moonriver: {
@@ -161,6 +161,15 @@ module.exports = {
             socket: "ws://xdai.poanetwork.dev:8546",
         },
     },
+
+    AVAX_CHAIN_ID: '0xa86a',
+    BSC_CHAIN_ID: '0x38',
+    CELO_CHAIN_ID: 42220,
+    FANTOM_CHAIN_ID: 250,
+    HARMONY_CHAIN_ID: 1666600000,
+    HECO_CHAIN_ID: '0x80',
+    MATIC_CHAIN_ID: '0x89',
+    OEC_CHAIN_ID: 66,
 
     DEBUG: true,
     LOGLEVEL: 'debug',
