@@ -57,9 +57,9 @@ module.exports = {
             FantomAdminContract: "0x2bA5049df54aEde8d26786DFBE0cf0fDF7eDBBAd",
         },
         Harmony: {
-            HarmonyMinterContract: "0x38C92A7C2B358e2F2b91723e5c4Fc7aa8b4d279F",
-            MessageMultiSigWallet: "0x8B8B037CC309bf46E23226BF38BE433ABC284Cf6",
-            HarmonyAdminContract: "0x2bA5049df54aEde8d26786DFBE0cf0fDF7eDBBAd",
+            HarmonyMinterContract: "0x7112999b437404B430acf80667E94D8E62b9e44E",
+            MessageMultiSigWallet: "0x11F91b08469f77cf47d2d829B4230E9268e9E670",
+            HarmonyAdminContract: "0x6CADF5FCD6D2930F6885725b5CCd060eaD9c1963",
         },
         Heco: {
             HecoVaultContract: "0x38C92A7C2B358e2F2b91723e5c4Fc7aa8b4d279F",
