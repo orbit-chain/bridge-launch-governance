@@ -149,8 +149,8 @@ module.exports = {
             socket: "wss://rpc-mainnet.matic.quiknode.pro",
         },
         Moonriver: {
-            rpc: "https://pub.elara.patract.io/moonriver",
-            socket: "wss://pub.elara.patract.io/moonriver",
+            rpc: "https://moonriver.api.onfinality.io/public",
+            socket: "wss://moonriver.api.onfinality.io/public-ws",
         },
         Oec: {
             rpc: "https://exchainrpc.okex.org",
