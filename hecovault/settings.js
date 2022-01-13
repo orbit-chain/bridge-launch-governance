@@ -57,9 +57,9 @@ module.exports = {
             FantomAdminContract: "0x2bA5049df54aEde8d26786DFBE0cf0fDF7eDBBAd",
         },
         Harmony: {
-            HarmonyMinterContract: "0x38C92A7C2B358e2F2b91723e5c4Fc7aa8b4d279F",
-            MessageMultiSigWallet: "0x8B8B037CC309bf46E23226BF38BE433ABC284Cf6",
-            HarmonyAdminContract: "0x2bA5049df54aEde8d26786DFBE0cf0fDF7eDBBAd",
+            HarmonyMinterContract: "0x7112999b437404B430acf80667E94D8E62b9e44E",
+            MessageMultiSigWallet: "0x11F91b08469f77cf47d2d829B4230E9268e9E670",
+            HarmonyAdminContract: "0x6CADF5FCD6D2930F6885725b5CCd060eaD9c1963",
         },
         Heco: {
             HecoVaultContract: "0x38C92A7C2B358e2F2b91723e5c4Fc7aa8b4d279F",
@@ -113,11 +113,11 @@ module.exports = {
             socket: "https://api.avax.network/ext/bc/C/ws",
         },
         Bsc: {
-            rpc : "https://bsc-dataseed.binance.org",
+            rpc : ["https://bsc-dataseed.binance.org", "https://bsc.chain-node.orbitchain.io:7643",],
             socket: "wss://bsc-ws-node.nariox.org:443",
         },
         Celo: {
-            rpc: "https://forno.celo.org",
+            rpc: ["https://forno.celo.org", "https://celo.chain-node.orbitchain.io:7643"],
             socket: "wss://forno.celo.org/ws",
         },
         Fantom: {
@@ -145,12 +145,12 @@ module.exports = {
             }
         },
         Matic: {
-            rpc : "https://polygon-rpc.com",
+            rpc : ["https://polygon-rpc.com", "https://matic.chain-node.orbitchain.io:7643",],
             socket: "wss://rpc-mainnet.matic.quiknode.pro",
         },
         Moonriver: {
-            rpc: "https://pub.elara.patract.io/moonriver",
-            socket: "wss://pub.elara.patract.io/moonriver",
+            rpc: "https://moonriver.api.onfinality.io/public",
+            socket: "wss://moonriver.api.onfinality.io/public-ws",
         },
         Oec: {
             rpc: "https://exchainrpc.okex.org",
@@ -161,6 +161,15 @@ module.exports = {
             socket: "ws://xdai.poanetwork.dev:8546",
         },
     },
+
+    AVAX_CHAIN_ID: '0xa86a',
+    BSC_CHAIN_ID: '0x38',
+    CELO_CHAIN_ID: 42220,
+    FANTOM_CHAIN_ID: 250,
+    HARMONY_CHAIN_ID: 1666600000,
+    HECO_CHAIN_ID: '0x80',
+    MATIC_CHAIN_ID: '0x89',
+    OEC_CHAIN_ID: 66,
 
     DEBUG: true,
     LOGLEVEL: 'debug',
