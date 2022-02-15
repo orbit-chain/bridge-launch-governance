@@ -12,6 +12,7 @@ module.exports = {
         'orbit',
         'oec',
         'xdai',
+        'eth-v2',
     ],
 
     // Bridge Addresses
@@ -50,6 +51,11 @@ module.exports = {
             CeloMinterContract: "0x9abc3f6c11dbd83234d6e6b2c373dfc1893f648d",
             MessageMultiSigWallet: "0xcAA1B50341ad8Eb69A7bb1985bf39224044B1d48",
             CeloAdminContract: "0x3060E2fbDB75663b50bf9e629693DC39A4418736",
+        },
+        Eth: {
+            EthMinterContract: "0x012c6d79b189e1aBD1EFaC759b275c5D49Abd164",
+            MessageMultiSigWallet: "0x9Abc3F6c11dBd83234D6E6b2c373Dfc1893F648D",
+            EthAdminContract: "0x3060E2fbDB75663b50bf9e629693DC39A4418736",
         },
         Fantom: {
             FantomMinterContract: "0x9abc3f6c11dbd83234d6e6b2c373dfc1893f648d",
@@ -119,6 +125,10 @@ module.exports = {
         Celo: {
             rpc: "https://forno.celo.org",
             socket: "wss://forno.celo.org/ws",
+        },
+        Eth: {
+            rpc: ["https://eth.chain-node.orbitchain.io:7643", "https://mainnet.infura.io/v3/[PROJECT_ID]"],
+            socket: "wss://mainnet.infura.io/ws/v3/[PROJECT_ID]",
         },
         Fantom: {
             rpc: "https://rpc.ftm.tools",
