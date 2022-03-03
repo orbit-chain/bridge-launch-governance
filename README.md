@@ -1,7 +1,7 @@
 # bridge-launch-governance
 
 ## Gather information of governance member
-- push info into repository. here is [sample](./ozys-ethvault/ozys.json)
+- push info into repository. here is [sample](./eth/ozys.json)
 - eth_address required for `ethvault`, `bscvault`, `celovault`
 - eth_address, terra_pubkey and signed_message required for terravault
 - eth_address, xrp_address, xrp_address_converted_for_orbit_mig required for xrpvault
@@ -11,7 +11,7 @@
 
 ## Launch
 - The *settings.js* file for each vault is here
-  - [ozys-ethvault](./ozys-ethvault/settings.js)
+  - [ozys-ethvault](./eth/settings.js)
   - [xrpvault](./xrpvault/settings.js)
   - [bscvault](./bscvault/settings.js)
   - [celovaul](./celovault/settings.js)
