@@ -53,8 +53,8 @@ module.exports = {
             CeloAdminContract: "0x3b31c980598f9237d9C14bB44118773b92174720",
         },
         Eth: {
-            EthMinterContract: "0x012c6d79b189e1aBD1EFaC759b275c5D49Abd164",
-            MessageMultiSigWallet: "0x506DC4c6408813948470a06ef6e4a1DaF228dbd5",
+            EthMinterContract: "0x506DC4c6408813948470a06ef6e4a1DaF228dbd5",
+            MessageMultiSigWallet: "0x98d729f9bD84AAC94639700e71B7916018A708B1",
             EthAdminContract: "0x3b31c980598f9237d9C14bB44118773b92174720",
         },
         Fantom: {
@@ -74,7 +74,7 @@ module.exports = {
         },
         Klay: {
             KlaytnMinterContract: "0x506DC4c6408813948470a06ef6e4a1DaF228dbd5",
-            MessageMultiSigWallet: "0x506DC4c6408813948470a06ef6e4a1DaF228dbd5",
+            MessageMultiSigWallet: "0x98d729f9bD84AAC94639700e71B7916018A708B1",
         },
         Matic: {
             MaticVaultContract: "0x506DC4c6408813948470a06ef6e4a1DaF228dbd5",
