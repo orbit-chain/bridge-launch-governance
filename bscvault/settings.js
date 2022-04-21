@@ -74,7 +74,7 @@ module.exports = {
             }
         },
         Heco: {
-            rpc : "https://http-mainnet-node.huobichain.com",
+            rpc : ["https://http-mainnet-node.huobichain.com", "https://heco.chain-node.orbitchain.io:7643"],
             socket: "wss://ws-mainnet.hecochain.com",
         },
         Bsc: {
