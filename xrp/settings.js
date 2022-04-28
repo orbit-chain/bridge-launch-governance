@@ -154,7 +154,7 @@ module.exports = {
             socket: "wss://ws.s0.t.hmny.io",
         },
         Heco: {
-            rpc : ["https://http-mainnet-node.huobichain.com", "https://heco.chain-node.orbitchain.io:7643"],
+            rpc : ["https://heco.chain-node.orbitchain.io:7643", "https://http-mainnet-node.huobichain.com"],
             socket: "wss://ws-mainnet.hecochain.com",
         },
         Matic: {
