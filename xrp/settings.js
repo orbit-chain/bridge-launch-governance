@@ -178,7 +178,15 @@ module.exports = {
     DEBUG: true,
     LOGLEVEL: 'debug',
 
-    // WIP: validator things.
+    ETH_CHAIN_ID: '0x1',
+    AVAX_CHAIN_ID: '0xa86a',
+    CELO_CHAIN_ID: '0xa4ec',
+    FANTOM_CHAIN_ID: '0xfa',
+    HARMONY_CHAIN_ID: 1666600000,
+    HECO_CHAIN_ID: '0x80',
+    MATIC_CHAIN_ID: '0x89',
+    OEC_CHAIN_ID: 66,
+
     VALIDATOR_ACCOUNT: {
         TYPE: "PK",
         DATA: "0000000000000000000000000000000000000000000000000000000000000000",
@@ -186,8 +194,8 @@ module.exports = {
 
     VALIDATOR_MONITOR: {
         Ozys: {
-	    Endpoint: "https://bridge-en.orbitchain.io:7743/xrpvault/v1/validator/report",
-	    Interval: 60 * 1000,
-	},
+	        Endpoint: "https://bridge-en.orbitchain.io:7743/xrpvault/v1/validator/report",
+	        Interval: 60 * 1000,
+	    },
     },
 }
