@@ -125,9 +125,9 @@ module.exports = {
             },
 
             // Using YOUR OWN NODE
-            isKas: false,
-            rpc: "https://cypress-klaytn-node",
-            socket: "wss://cypress-klaytn-node",
+            // isKas: false,
+            // rpc: "https://cypress-klaytn-node",
+            // socket: "wss://cypress-klaytn-node",
         },
         Xrp: {
             rpc: "https://s1.ripple.com:51234",
