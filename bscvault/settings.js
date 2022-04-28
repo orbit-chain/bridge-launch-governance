@@ -87,6 +87,15 @@ module.exports = {
         },
     },
 
+    ETH_CHAIN_ID: '0x1',
+    AVAX_CHAIN_ID: '0xa86a',
+    CELO_CHAIN_ID: '0xa4ec',
+    FANTOM_CHAIN_ID: '0xfa',
+    HARMONY_CHAIN_ID: 1666600000,
+    HECO_CHAIN_ID: '0x80',
+    MATIC_CHAIN_ID: '0x89',
+    OEC_CHAIN_ID: 66,
+
     DEBUG: true,
     LOGLEVEL: 'debug',
 

@@ -175,9 +175,6 @@ module.exports = {
         },
     },
 
-    DEBUG: true,
-    LOGLEVEL: 'debug',
-
     ETH_CHAIN_ID: '0x1',
     AVAX_CHAIN_ID: '0xa86a',
     CELO_CHAIN_ID: '0xa4ec',
@@ -186,6 +183,9 @@ module.exports = {
     HECO_CHAIN_ID: '0x80',
     MATIC_CHAIN_ID: '0x89',
     OEC_CHAIN_ID: 66,
+
+    DEBUG: true,
+    LOGLEVEL: 'debug',
 
     VALIDATOR_ACCOUNT: {
         TYPE: "PK",

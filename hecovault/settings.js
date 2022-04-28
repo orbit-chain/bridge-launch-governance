@@ -162,10 +162,10 @@ module.exports = {
         },
     },
 
+    ETH_CHAIN_ID: '0x1',
     AVAX_CHAIN_ID: '0xa86a',
-    BSC_CHAIN_ID: '0x38',
-    CELO_CHAIN_ID: 42220,
-    FANTOM_CHAIN_ID: 250,
+    CELO_CHAIN_ID: '0xa4ec',
+    FANTOM_CHAIN_ID: '0xfa',
     HARMONY_CHAIN_ID: 1666600000,
     HECO_CHAIN_ID: '0x80',
     MATIC_CHAIN_ID: '0x89',
