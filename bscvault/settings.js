@@ -82,7 +82,7 @@ module.exports = {
             socket: "wss://bsc-ws-node.nariox.org:443",
         },
         Matic: {
-            rpc : "https://polygon-rpc.com",
+            rpc: ["https://polygon-rpc.com", "https://matic.orbitchain.io:7643",],
             socket: "wss://rpc-mainnet.matic.quiknode.pro",
         },
     },
