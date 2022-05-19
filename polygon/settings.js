@@ -155,7 +155,7 @@ module.exports = {
             }
         },
         Matic: {
-            rpc: ["https://polygon-rpc.com", "https://matic.orbitchain.io:7643",],
+            rpc: ["https://polygon-rpc.com", "https://matic.chain-node.orbitchain.io:7643",],
             socket: "wss://rpc-mainnet.matic.quiknode.pro",
         },
         Moonriver: {
