@@ -167,7 +167,7 @@ module.exports = {
             socket: "wss://exchainws.okex.org:8443",
         },
         Xdai: {
-            rpc: "https://rpc.xdaichain.com",
+            rpc: "https://rpc.gnosischain.com",
             socket: "ws://xdai.poanetwork.dev:8546",
         },
     },
