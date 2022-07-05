@@ -190,6 +190,7 @@ module.exports = {
     CELO_CHAIN_ID: '0xa4ec',
     FANTOM_CHAIN_ID: '0xfa',
     HARMONY_CHAIN_ID: 1666600000,
+    HARMONY_GAS_PRICE: 50 * 10 ** 9,
     HECO_CHAIN_ID: '0x80',
     MATIC_CHAIN_ID: '0x89',
     OEC_CHAIN_ID: 66,
