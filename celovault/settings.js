@@ -52,10 +52,12 @@ module.exports = {
                 rpc: "https://node-api.klaytnapi.com/v1/klaytn",
                 chainId: 8217,
 
-                //TODO: Your Credential
+                // Your Credential
                 accessKeyId: "",
                 secretAccessKey: ""
-            }
+            },
+            rpc: ["https://klaytn-mainnet-rpc.allthatnode.com:8551", "https://klaytn01.fandom.finance", "https://klaytn02.fandom.finance", "https://public-node-api.klaytnapi.com/v1/cypress"],
+            socket: "wss://public-node-api.klaytnapi.com/v1/cypress/ws"
         },
         Celo: {
             rpc: "https://forno.celo.org",
