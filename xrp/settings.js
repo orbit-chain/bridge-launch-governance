@@ -112,22 +112,18 @@ module.exports = {
             socket: "wss://bridge-en.orbitchain.io:7444",
         },
         Klaytn: {
-            // Using KAS
             isKas: true,
             Kas: {
-                    // KAS Default
-                    rpc: "https://node-api.klaytnapi.com/v1/klaytn",
-                    chainId: 8217,
+                // KAS Default
+                rpc: "https://node-api.klaytnapi.com/v1/klaytn",
+                chainId: 8217,
 
-                    // Your Credential
-                    accessKeyId: "",
-                    secretAccessKey: "",
+                // Your Credential
+                accessKeyId: "",
+                secretAccessKey: ""
             },
-
-            // Using YOUR OWN NODE
-            // isKas: false,
-            // rpc: "https://cypress-klaytn-node",
-            // socket: "wss://cypress-klaytn-node",
+            rpc: ["https://klaytn-mainnet-rpc.allthatnode.com:8551", "https://klaytn01.fandom.finance", "https://klaytn02.fandom.finance", "https://public-node-api.klaytnapi.com/v1/cypress"],
+            socket: "wss://public-node-api.klaytnapi.com/v1/cypress/ws"
         },
         Xrp: {
             rpc: "https://s1.ripple.com:51234",
