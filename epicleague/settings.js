@@ -66,15 +66,22 @@ module.exports = {
         },
     },
 
-    VALIDATOR_ACCOUNT: {
-        TYPE: "PK",
-        DATA: "0000000000000000000000000000000000000000000000000000000000000000",
-    },
-
     BSC_CHAIN_ID: '0x38',
     ETH_CHAIN_ID: '0x1',
     MATIC_CHAIN_ID: '0x89',
 
     DEBUG: true,
     LOGLEVEL: 'debug',
+
+    VALIDATOR_MONITOR: {
+        Ozys: {
+            Endpoint: "https://bridge-en.orbitchain.io:7743/epicleague/v1/validator/report",
+            Interval: 60 * 1000,
+        },
+    },
+
+    VALIDATOR_ACCOUNT: {
+        TYPE: "PK",
+        DATA: "0000000000000000000000000000000000000000000000000000000000000000",
+    },
 }
