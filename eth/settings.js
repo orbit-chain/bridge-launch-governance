@@ -135,6 +135,7 @@ module.exports = {
         Eth: {
             rpc: ["https://eth.chain-node.orbitchain.io:7643", "https://mainnet.infura.io/v3/[PROJECT_ID]"],
             socket: "wss://mainnet.infura.io/ws/v3/[PROJECT_ID]",
+            beacon: "https://beacon.chain-node.orbitchain.io:7643",
         },
         Fantom: {
             rpc: "https://rpc.ftm.tools",
@@ -196,6 +197,8 @@ module.exports = {
     HECO_CHAIN_ID: '0x80',
     MATIC_CHAIN_ID: '0x89',
     OEC_CHAIN_ID: 66,
+
+    ETH_TERMINAL_TOTAL_DIFFICULTY: "58750000000000000000000",
 
     DEBUG: true,
     LOGLEVEL: 'debug',
