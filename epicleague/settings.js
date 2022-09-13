@@ -59,6 +59,7 @@ module.exports = {
         Eth: {
             rpc: ["https://ethereum-mainnet-rpc.allthatnode.com", "https://mainnet.infura.io/v3/[PROJECT_ID]", "https://rpc.ankr.com/eth", "https://eth.chain-node.orbitchain.io:7643", ],
             socket: "wss://mainnet.infura.io/ws/v3/[PROJECT_ID]",
+            beacon: "https://beacon.chain-node.orbitchain.io:7643",
         },
         Matic: {
             rpc: ["https://polygon-mainnet-rpc.allthatnode.com:8545", "https://polygon-rpc.com", "https://matic.chain-node.orbitchain.io:7643",],
@@ -69,6 +70,8 @@ module.exports = {
     BSC_CHAIN_ID: '0x38',
     ETH_CHAIN_ID: '0x1',
     MATIC_CHAIN_ID: '0x89',
+
+    ETH_TERMINAL_TOTAL_DIFFICULTY: "58750000000000000000000",
 
     DEBUG: true,
     LOGLEVEL: 'debug',
