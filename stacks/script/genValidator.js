@@ -6,9 +6,8 @@ const { createAddress, createStacksPrivateKey, getAddressFromPrivateKey, getPubl
 (async() => {
     const key = ec.genKeyPair();
     const evmPK = key.getPrivate("hex");
-    const stacksKey = `${evmPK}01`;
-    const stacksAddress = getAddressFromPrivateKey(stacksKey, TransactionVersion.Mainnet);
-    const stacksPub = `0x${Buffer.from(getPublicKey(createStacksPrivateKey(stacksKey)).data).toString("hex")}`;
+    const stacksAddress = getAddressFromPrivateKey(evmPK, TransactionVersion.Mainnet);
+    const stacksPub = `0x${Buffer.from(getPublicKey(createStacksPrivateKey(evmPK)).data).toString("hex")}`;
     console.log({
         evmPK,
         ethAddress: ethers.utils.computeAddress(`0x${key.getPublic().encode("hex")}`),
