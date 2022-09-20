@@ -1,5 +1,5 @@
 FROM node:latest
 COPY ../package.json /script/package.json
-COPY gen.validator.js /script/genValidator.js
-RUN cd /script && npm install
+RUN cd /script && npm install && cd /
+COPY gen.validator.js /script/gen.validator.js
 ENTRYPOINT ["node", "/script/gen.validator.js"]
