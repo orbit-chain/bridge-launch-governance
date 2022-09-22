@@ -1,0 +1,12 @@
+{
+    "name": "DSRV",
+    "eth_address": "0xd154cd72b18dbE209A2f549A0672d0392bc5B902",
+    "stacks_address": "SP1DGVKSPN3X8PX01PMMT3NGXMHBYVBPV7W0QBY03",
+    "stacks_pub": "0x041a9dfd6f2284f31cdd81a8de4c052baca4dadc5b43562df288545d8085a84a76433e7f1e92d0c22dd07182696db3e2be95fa01ae0e2229b5312e9f2c4e8fe721",
+    "hash160": "5b0dcf36a8fa8b7401b529a1d61da457edaedb3f",
+    "homepage": "https://dsrvlabs.com/",
+    "contact": "validator@dsrvlabs.com",
+    "location": "KOREA",
+    "logo": "https://s3.amazonaws.com/keybase_processed_uploads/8349f3ab6852a8419c1987ad9096c605_360_360.jpg",
+    "description": "Distributed. Served."
+}
