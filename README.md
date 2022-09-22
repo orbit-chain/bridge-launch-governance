@@ -7,7 +7,7 @@ ex) [`./eth/ozys.json`](./eth/ozys.json), [`./xrpvault/ozys.json`](./xrp/ozys.js
 3. Fill out the information using the format by chain below.   
 
 EVM:   
-`eth_address` is required for evm chains like `eth`, `bscvault`, `celovault`, `hecovault`, `klaytnvault`, `polygon`
+- `eth_address` is required for evm chains like `eth`, `bscvault`, `celovault`, `hecovault`, `klaytnvault`, `polygon`
 ```json
 {
     "name": "",
