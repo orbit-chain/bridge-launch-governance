@@ -1,0 +1,12 @@
+{
+  "name": "Arkadiko",
+  "eth_address": "0xd6C771Ea0e6843376831Ab936459cD4006A9C1DF",
+  "stacks_address": "SP2J8TPZ5F6FAZTS8CJ6QT8MZGG5780NNNB3J974Y",
+  "stacks_pub": "0x04ccaf09fbc1198d58e20382c4bde16db8baad90be7edd9290d94e90009f8fbb364319fb9a1645040f62816b2a2e261c7264d7f9cf606716572a3ad5b35d6f69ae",
+  "hash160": "a48d5be5799eafeb28648d7d229f840a7402b5aa",
+  "homepage": "https://arkadiko.finance",
+  "contact": "philip@arkadiko.finance",
+  "location": "EUROPE",
+  "logo": "https://app.arkadiko.finance/assets/tokens/diko.svg",
+  "description": "USDA Stablecoin and lending protocol on Stacks"
+}
