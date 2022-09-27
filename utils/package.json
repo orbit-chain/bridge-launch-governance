@@ -3,6 +3,7 @@
     "@stacks/transactions": "^3.2.0",
     "elliptic": "^6.5.4",
     "ethers": "^5.5.4",
-    "secp256k1": "^4.0.3"
+    "secp256k1": "^4.0.3",
+    "tonweb": "^0.0.54"
   }
 }
