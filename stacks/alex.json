@@ -1,0 +1,13 @@
+{
+    "name": "ALEX",
+    "eth_address": "0x51A4C1b48CBff3C2ae714b01772BBD8446757f72",
+    "stacks_address": "SPJCJQRAG5BMNG57QSNWBNBF7KD80QHNHWCVDCXK",
+    "stacks_pub": "0x049f144e938d8b4d1c1a8c3b5153251765e394c396d38397c2bafcdb62562d1b1380f040a332ca33cef0408875ee89ca0b97db508131e658905ff574fd4677c71f",
+    "hash160": "24c95f0a81574ac0a7be6bc5d56f3cda805e358f",
+    "homepage": "https://app.alexlab.co",
+    "contact": "sidney@alexgo.io",
+    "location": "Hong Kong",
+    "logo": "https://cdn.alexlab.co/logos/ALEX_Token.png",
+    "description": "ALEX is an open-source DeFi protocol built on Bitcoin via Stacks, modelled on, yet extending, the world’s existing financial markets."
+  }
+  
