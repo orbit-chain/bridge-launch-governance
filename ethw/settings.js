@@ -69,18 +69,18 @@ module.exports = {
                 secretAccessKey: "",
             },
         },
-        ETH_CHAIN_ID: '0x2711',
-        MATIC_CHAIN_ID: "0x89",
-        VALIDATOR_ACCOUNT: {
-            TYPE: "PK",
-            DATA: "0000000000000000000000000000000000000000000000000000000000000000",
-        },
-        VALIDATOR_MONITOR: {
-            Ozys: {
-                Endpoint:
-                    "https://https://bridge-en.orbitchain.io:7443/powethvault/v1/validator/report",
-                Interval: 60000,
-            },
+    },
+    POWETH_CHAIN_ID: "0x2711",
+    MATIC_CHAIN_ID: "0x89",
+    VALIDATOR_ACCOUNT: {
+        TYPE: "PK",
+        DATA: "0000000000000000000000000000000000000000000000000000000000000000",
+    },
+    VALIDATOR_MONITOR: {
+        Ozys: {
+            Endpoint:
+                "https://https://bridge-en.orbitchain.io:7443/powethvault/v1/validator/report",
+            Interval: 60000,
         },
     },
 };
