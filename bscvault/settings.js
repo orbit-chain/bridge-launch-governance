@@ -1,7 +1,7 @@
 module.exports = {
     // operating chain list
     chainList: [
-        'klaytn-v2',
+        'klaytn',
         'orbit',
         'bsc',
         'heco',
@@ -80,11 +80,11 @@ module.exports = {
             socket: "wss://ws-mainnet.hecochain.com",
         },
         Bsc: {
-            rpc : "https://bsc-dataseed.binance.org",
+            rpc : ["https://bsc-dataseed.binance.org", "https://bsc-dataseed1.binance.org", "https://rpc.ankr.com/bsc", "https://binance.nodereal.io"],
             socket: "wss://bsc-ws-node.nariox.org:443",
         },
         Matic: {
-            rpc: ["https://polygon-rpc.com", "https://matic.chain-node.orbitchain.io:7643",],
+            rpc: ["https://polygon-rpc.com", "https://matic.chain-node.orbitchain.io:7643", "https://rpc.ankr.com/polygon"],
             socket: "wss://rpc-mainnet.matic.quiknode.pro",
         },
     },
