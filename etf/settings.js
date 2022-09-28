@@ -72,7 +72,7 @@ module.exports = {
             socket: "wss://rpc-mainnet.matic.quiknode.pro",
         },
     },
-    Faireth_CHAIN_ID: "0x7D44C",
+    FAIRETH_CHAIN_ID: "0x7D44C",
     MATIC_CHAIN_ID: "0x89",
     VALIDATOR_ACCOUNT: {
         TYPE: "PK",
