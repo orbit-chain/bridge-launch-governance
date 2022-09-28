@@ -2,7 +2,7 @@ module.exports = {
     // operating chain list
     chainList: [
         'celo',
-        'klaytn-v2',
+        'klaytn',
         'orbit',
     ],
 
@@ -60,7 +60,7 @@ module.exports = {
             socket: "wss://public-node-api.klaytnapi.com/v1/cypress/ws"
         },
         Celo: {
-            rpc: "https://forno.celo.org",
+            rpc: ["https://forno.celo.org", "https://rpc.ankr.com/celo"]
             socket: "wss://forno.celo.org/ws",
         },
     },
