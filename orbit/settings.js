@@ -2,8 +2,8 @@ module.exports = {
     chainList: [
         'bsc',
         'heco',
-        'klaytn-v2',
-	'matic',
+        'klaytn',
+        'matic',
         'orbit',
     ],
 
@@ -13,7 +13,7 @@ module.exports = {
         BscBridgeContract: "0x89c527764f03BCb7dC469707B23b79C1D7Beb780",
         HecoBridgeContract: "0xE7688F64e96A733EaDdCb5850392347e67Bb197f",
         KlaytnBridgeContract: "0x1af95905bb0042803f90e36d79d13aea6cd58969",
-	MaticBridgeContract: "0x1Fc5A2cE72c71563E6EFC1fc35F326D4CCd23B93",
+        MaticBridgeContract: "0x1Fc5A2cE72c71563E6EFC1fc35F326D4CCd23B93",
         OrbitBridgeContract: "0x77a49649964a186Fd2b8754758c39c9438a6E9aB",
         MessageMultiSigWallet: {
             Hub: "0x9BB0bF13103DfD75877979c5224173562E4ff552",
@@ -66,24 +66,24 @@ module.exports = {
         },
         Klaytn: {
             isKas: false,
-	    rpc: ["https://klaytn-mainnet-rpc.allthatnode.com:8551", "https://klaytn03.fandom.finance", "https://klaytn02.fandom.finance", "https://public-node-api.klaytnapi.com/v1/cypress",],
-	    socket: "wss://public-node-api.klaytnapi.com/v1/cypress/ws",
+            rpc: ["https://klaytn-mainnet-rpc.allthatnode.com:8551", "https://klaytn03.fandom.finance", "https://klaytn02.fandom.finance", "https://public-node-api.klaytnapi.com/v1/cypress",],
+            socket: "wss://public-node-api.klaytnapi.com/v1/cypress/ws",
             Kas: {
                 // KAS Default
                 rpc: "https://node-api.klaytnapi.com/v1/klaytn",
                 chainId: 8217,
 
-                // KAS need provide credentials after signup(https://www.klaytnapi.com) 
+                // KAS need provide credentials after signup(https://www.klaytnapi.com)
                 accessKeyId: "",
                 secretAccessKey: ""
             }
         },
         Heco: {
-	    rpc : ["https://http-mainnet.hecochain.com", "https://heco.chain-node.orbitchain.io:7643",],
+            rpc : ["https://http-mainnet.hecochain.com", "https://heco.chain-node.orbitchain.io:7643",],
             socket: "wss://ws-mainnet.hecochain.com",
         },
         Bsc: {
-	    rpc : ["https://bsc-dataseed.binance.org", "https://bscrpc.com", "https://bsc.mytokenpocket.vip", "https://rpc.ankr.com/bsc", "https://binance.nodereal.io",],
+            rpc : ["https://bsc-dataseed.binance.org", "https://bscrpc.com", "https://bsc.mytokenpocket.vip", "https://rpc.ankr.com/bsc", "https://binance.nodereal.io",],
             socket: "wss://bsc-ws-node.nariox.org:443",
         },
     },

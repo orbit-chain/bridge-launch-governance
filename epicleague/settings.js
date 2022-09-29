@@ -1,6 +1,6 @@
 module.exports = {
     chainList: [
-        "eth-v2",
+        "eth",
         "bsc",
         "matic",
         "orbit"
@@ -53,7 +53,7 @@ module.exports = {
             socket: "wss://bridge-en.orbitchain.io:7444",
         },
         Bsc: {
-            rpc : ["https://bsc-mainnet-rpc.allthatnode.com", "https://bsc-dataseed.binance.org",],
+            rpc : ["https://bsc-mainnet-rpc.allthatnode.com", "https://bsc-dataseed.binance.org", "https://bsc.chain-node.orbitchain.io:7643"],
             socket: "wss://bsc-ws-node.nariox.org:443",
         },
         Eth: {
