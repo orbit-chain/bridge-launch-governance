@@ -1,0 +1,12 @@
+{
+    "name": "NEOPLY",
+    "eth_address": "0xb69CEFe846A17dA145F1216Dc1218A560BB9fF8E",
+    "tonV3R2Address": "EQDrOAHBoQin10SUs4YdGAnGIyOt4LZHIksyxby9KUeFp5cG",
+    "ethPublic": "0x28c5215bc5e13c4cdebcb2c932c63344af38d2060f56742c84c700e3f21d3e7db0bb0b7f2fa32017d248c5444b6574db7f8c0ef9ffd549f841d00e0484ae83a5",
+    "tonPublic": "0x95c5fb988db4061316bf81de2349ca322ac94760d1126f9789febde3d4fb76ab",
+    "homepage": "https://neoply.io",
+    "contact": "co_staking@neoply.com",
+    "location": "KOREA",
+    "logo": "https://neoply.io/bp_info/neoply_logo_256.png",
+    "description": "NEOPLY is a blockchain specialized company that stably operates various nodes."
+}
