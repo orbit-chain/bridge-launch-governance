@@ -6,13 +6,13 @@ module.exports = {
         'heco',
         'fantom',
         'harmony',
-        'klaytn-v2',
+        'klaytn',
         'matic',
         'moonriver',
         'orbit',
         'oec',
         'xdai',
-        'eth-v2',
+        'eth',
     ],
 
     // Bridge Addresses
