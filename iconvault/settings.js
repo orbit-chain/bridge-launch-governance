@@ -1,8 +1,8 @@
 module.exports = {
     // operating chain list
     chainList: [
-        "icon-v2",
-        "klaytn-v2",
+        "icon",
+        "klaytn",
         "orbit",
     ],
 
