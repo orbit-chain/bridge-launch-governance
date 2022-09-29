@@ -1,7 +1,7 @@
 module.exports = {
     // operating chain list
     chainList: [
-        'klaytn-v2',
+        'klaytn',
         'xrp',
     	'orbit',
         'avax',
@@ -130,23 +130,23 @@ module.exports = {
             socket: "wss://s1.ripple.com:443",
         },
         Avax: {
-            rpc: "https://api.avax.network/ext/bc/C/rpc",
+            rpc: ["https://api.avax.network/ext/bc/C/rpc", "https://rpc.ankr.com/avalanche", "https://ava-mainnet.public.blastapi.io/ext/bc/C/rpc"],
             socket: "https://api.avax.network/ext/bc/C/ws",
         },
         Bsc: {
-            rpc : "https://bsc-dataseed.binance.org",
+            rpc : ["https://bsc-dataseed.binance.org", "https://bsc-dataseed1.binance.org", "https://rpc.ankr.com/bsc", "https://bsc.chain-node.orbitchain.io:7643"],
             socket: "wss://bsc-ws-node.nariox.org:443",
         },
         Celo: {
-            rpc: "https://forno.celo.org",
+            rpc: ["https://forno.celo.org", "https://rpc.ankr.com/celo", "https://celo.chain-node.orbitchain.io:7643"],
             socket: "wss://forno.celo.org/ws",
         },
         Fantom: {
-            rpc: "https://rpc.ftm.tools",
+            rpc: ["https://rpc.ftm.tools", "https://rpc.fantom.network", "https://rpc.ankr.com/fantom"],
             socket: "wss://wsapi.fantom.network",
         },
         Harmony: {
-            rpc: "https://api.harmony.one",
+            rpc: ["https://api.harmony.one", "https://rpc.ankr.com/harmony", "https://harmony-mainnet.chainstacklabs.com"],
             socket: "wss://ws.s0.t.hmny.io",
         },
         Heco: {
@@ -154,19 +154,19 @@ module.exports = {
             socket: "wss://ws-mainnet.hecochain.com",
         },
         Matic: {
-            rpc: ["https://polygon-rpc.com", "https://matic.chain-node.orbitchain.io:7643",],
+            rpc : ["https://polygon-rpc.com", "https://matic.chain-node.orbitchain.io:7643", "https://rpc.ankr.com/polygon"],
             socket: "wss://rpc-mainnet.matic.quiknode.pro",
         },
         Moonriver: {
-            rpc: "https://moonriver.api.onfinality.io/public",
-            socket: "wss://moonriver.api.onfinality.io/public-ws",
+            rpc: ["https://moonriver.public.blastapi.io", "https://rpc.api.moonriver.moonbeam.network"],
+            socket: "wss://wss.api.moonriver.moonbeam.network",
         },
         Oec: {
-            rpc: "https://exchainrpc.okex.org",
+            rpc: ["https://exchainrpc.okex.org", "https://okc-mainnet.gateway.pokt.network/v1/lb/6275309bea1b320039c893ff"],
             socket: "wss://exchainws.okex.org:8443",
         },
         Xdai: {
-            rpc: "https://rpc.gnosischain.com",
+            rpc: ["https://rpc.gnosischain.com", "https://rpc.ankr.com/gnosis", "https://gnosis-mainnet.public.blastapi.io"],
             socket: "ws://xdai.poanetwork.dev:8546",
         },
     },
