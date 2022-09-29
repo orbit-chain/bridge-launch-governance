@@ -125,11 +125,11 @@ module.exports = {
             socket: "https://api.avax.network/ext/bc/C/ws",
         },
         Bsc: {
-            rpc : ["https://bsc-dataseed.binance.org", "https://bsc-dataseed1.binance.org", "https://rpc.ankr.com/bsc", "https://binance.nodereal.io"],
+            rpc : ["https://bsc-dataseed.binance.org", "https://bsc-dataseed1.binance.org", "https://rpc.ankr.com/bsc", "https://bsc.chain-node.orbitchain.io:7643"],
             socket: "wss://bsc-ws-node.nariox.org:443",
         },
         Celo: {
-            rpc: ["https://forno.celo.org", "https://rpc.ankr.com/celo"],
+            rpc: ["https://forno.celo.org", "https://rpc.ankr.com/celo", "https://celo.chain-node.orbitchain.io:7643"],
             socket: "wss://forno.celo.org/ws",
         },
         Eth: {
