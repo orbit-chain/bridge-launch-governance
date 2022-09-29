@@ -60,7 +60,7 @@ module.exports = {
             socket: "wss://public-node-api.klaytnapi.com/v1/cypress/ws"
         },
         Celo: {
-            rpc: ["https://forno.celo.org", "https://rpc.ankr.com/celo"],
+            rpc: ["https://forno.celo.org", "https://rpc.ankr.com/celo", "https://celo.chain-node.orbitchain.io:7643"],
             socket: "wss://forno.celo.org/ws",
         },
     },
