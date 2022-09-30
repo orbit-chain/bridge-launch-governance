@@ -129,7 +129,7 @@ module.exports = {
             socket: "wss://ws.s0.t.hmny.io",
         },
         Heco: {
-            rpc : ["https://heco.chain-node.orbitchain.io:7643", "https://http-mainnet-node.huobichain.com"],
+            rpc : ["https://heco.chain-node.orbitchain.io:7643", "https://http-mainnet.hecochain.com"],
             socket: "wss://ws-mainnet.hecochain.com",
         },
         Klaytn: {
