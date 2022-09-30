@@ -80,8 +80,7 @@ module.exports = {
     },
     VALIDATOR_MONITOR: {
         Ozys: {
-            Endpoint:
-                "https://bridge-en.orbitchain.io:7443/Fairethvault/v1/validator/report",
+            Endpoint: "https://bridge-en.orbitchain.io:7743/v1/validator/report",
             Interval: 60000,
         },
     },

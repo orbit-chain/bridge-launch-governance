@@ -96,10 +96,10 @@ module.exports = {
         DATA: "0000000000000000000000000000000000000000000000000000000000000000",
     },
 
-    //VALIDATOR_MONITOR: {
-    //    Ozys: {
-    //        Endpoint: "https://bridge-en.orbitchain.io:7743/orbitvault/v1/validator/report",
-    //        Interval: 60 * 1000,
-    //    },
-    //},
+    VALIDATOR_MONITOR: {
+        Ozys: {
+            Endpoint: "https://bridge-en.orbitchain.io:7743/v1/validator/report",
+            Interval: 60 * 1000,
+        },
+    },
 }
