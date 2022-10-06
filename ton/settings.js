@@ -117,7 +117,7 @@ module.exports = {
         },        
         Ton: {
             rpc: "https://toncenter.com/api/v2/jsonRPC",
-            apiKey: "",
+            apiKey: "REPLACE THIS STIRING TO ISSUED API TOKEN",
         },
         Avax: {
             rpc: ["https://api.avax.network/ext/bc/C/rpc", "https://rpc.ankr.com/avalanche", "https://ava-mainnet.public.blastapi.io/ext/bc/C/rpc"],
