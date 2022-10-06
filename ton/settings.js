@@ -23,6 +23,7 @@ module.exports = {
         KlaytnBridgeContract: "0x1af95905bb0042803f90e36d79d13aea6cd58969",
         OrbitBridgeContract: "0x77a49649964a186Fd2b8754758c39c9438a6E9aB",
         TonBridgeContract: "0xB773f5A2C0537964efC07B2ED13C89cE8FE7CCbA",
+        TonAddressBook: "0x33447104F6A0152E11dD820328cC68530B0cDa74",
         MessageMultiSigWallet: {
             Hub: "0x4dd5c30ae4a140d3B9180c778bD2e74c8e64E38A",
             Ton: "0x4dd5c30ae4a140d3B9180c778bD2e74c8e64E38A",
