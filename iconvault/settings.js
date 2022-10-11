@@ -1,8 +1,8 @@
 module.exports = {
     // operating chain list
     chainList: [
-        "icon-v2",
-        "klaytn-v2",
+        "icon",
+        "klaytn",
         "orbit",
     ],
 
@@ -86,7 +86,7 @@ module.exports = {
 
     VALIDATOR_MONITOR: {
         Ozys: {
-            Endpoint: "https://bridge-en.orbitchain.io:7743/iconvault/v1/validator/report",
+            Endpoint: "https://bridge-en.orbitchain.io:7743/v1/validator/report",
             Interval: 60 * 1000,
         },
     },

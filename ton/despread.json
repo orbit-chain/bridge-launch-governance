@@ -1,0 +1,12 @@
+{
+    "name": "DeSpread",
+    "eth_address": "0x278747Bb147619350B3403e121818355e2CED772",
+    "tonV3R2Address": "EQDNy6Eceoc8ZeWgY-oyh796EBY96hjZNxnv1aSe0DL-ElIy",
+    "ethPublic": "0x04d299d9adc86492a27e615aaf6dcddd8a1cfe7ebca691b30b34b9afbd15f3757ed29a4f9961c7036df6f596979d2238c256a985268996d5b4b763162725295134",
+    "tonPublic": "0x7257240d1d7bc74658788a331304613ec0bee713eea0fad8d7243c97713f764d",
+    "homepage": "https://despread.io",
+    "contact": "support@despread.io",
+    "location": "KOREA",
+    "logo": "https://despread.s3.ap-northeast-2.amazonaws.com/despread_logo.png",
+    "description": "Building Multi-chain Ecosystem and Blockchain Ecosystem Accelerator, Based in South Korea."
+}

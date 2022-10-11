@@ -1,7 +1,7 @@
 module.exports = {
     // operating chain list
     chainList: [
-        'klaytn-v2',
+        'klaytn',
         'orbit',
         'bsc',
         'heco',
@@ -76,15 +76,15 @@ module.exports = {
             socket: "wss://public-node-api.klaytnapi.com/v1/cypress/ws"
         },
         Heco: {
-            rpc : ["https://heco.chain-node.orbitchain.io:7643", "https://http-mainnet-node.huobichain.com"],
+            rpc : ["https://heco.chain-node.orbitchain.io:7643", "https://http-mainnet.hecochain.com"],
             socket: "wss://ws-mainnet.hecochain.com",
         },
         Bsc: {
-            rpc : "https://bsc-dataseed.binance.org",
+            rpc : ["https://bsc-dataseed.binance.org", "https://bsc-dataseed1.binance.org", "https://rpc.ankr.com/bsc", "https://bsc.chain-node.orbitchain.io:7643"],
             socket: "wss://bsc-ws-node.nariox.org:443",
         },
         Matic: {
-            rpc: ["https://polygon-rpc.com", "https://matic.chain-node.orbitchain.io:7643",],
+            rpc: ["https://polygon-rpc.com", "https://matic.chain-node.orbitchain.io:7643", "https://rpc.ankr.com/polygon"],
             socket: "wss://rpc-mainnet.matic.quiknode.pro",
         },
     },
@@ -109,7 +109,7 @@ module.exports = {
 
     VALIDATOR_MONITOR: {
         Ozys: {
-            Endpoint: "https://bridge-en.orbitchain.io:7743/bscvault/v1/validator/report",
+            Endpoint: "https://bridge-en.orbitchain.io:7743/v1/validator/report",
             Interval: 60 * 1000,
         },
     },

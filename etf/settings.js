@@ -1,5 +1,5 @@
 module.exports = {
-    chainList: ["Faireth", "orbit", "klaytn", "matic"],
+    chainList: ["faireth", "orbit", "klaytn", "matic"],
     BridgeAddress: {
         OrbitHubContract: "0xb5680a55d627c52de992e3ea52a86f19da475399",
         FairethBridgeContract: "0xd01c3EFa0d27d0Dc1Cc33d4b4c28635F8e362359",
@@ -31,7 +31,7 @@ module.exports = {
             MaticAdminContract: "0x0e51130ec74Ebd4db12C93397b4982BFF277862c",
         },
         Governance: {
-            Chain: "Faireth",
+            Chain: "FAIRETH",
             Address: "0x1Bf68A9d1EaEe7826b3593C20a0ca93293cb489a",
             Bytes: "0x1Bf68A9d1EaEe7826b3593C20a0ca93293cb489a",
             Id: "0x9ae05b121092263d4dfeaacff02f48fbe357396c486680db00528e89f7ccb7dc",
@@ -80,8 +80,7 @@ module.exports = {
     },
     VALIDATOR_MONITOR: {
         Ozys: {
-            Endpoint:
-                "https://https://bridge-en.orbitchain.io:7443/Fairethvault/v1/validator/report",
+            Endpoint: "https://bridge-en.orbitchain.io:7743/v1/validator/report",
             Interval: 60000,
         },
     },
