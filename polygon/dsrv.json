@@ -1,6 +1,11 @@
 {
     "name": "DSRV",
     "eth_address": "0x31983F9B38d93BEdB4f89360fF430E5b33baCA8F",
+    "tonV3R2Address": "EQA65rUGyu17FHDrSHlmmrC-X4Jfg1aN50EEP9mOqQ5mKnQP",
+    "tonPublic": "0x395bbf9108dcf016eeb62a6eb1e365c8c78a6dfbdbe2d4bfe38b43e12372eaf2",
+    "stacksCompressedAddress": "SP1Q8CDE5V1QX8GFXG95BN7H36W1MA7K8XY0FGBYS",
+    "stacksCompressedPub": "0x030d4a53891d9f8820a9751997e991f9e2f69834cace9df3741da9f7f4a832b000",
+    "stacksCompressedHash160": "6e8635c5d86fd441fd824aba9e233703451e68ef",
     "homepage": "https://dsrvlabs.com/",
     "contact": "validator@dsrvlabs.com",
     "location": "KOREA",
