@@ -45,8 +45,12 @@ const isTestnet = false;
 
     const addr = await walletContract.getAddress();
     const tonV3R2Address = addr.toString(true, true, true);
-    const stacksAddress = getAddressFromPrivateKey(evmPK, TransactionVersion.Mainnet);
-    const stacksPub = `0x${Buffer.from(getPublicKey(createStacksPrivateKey(evmPK)).data).toString("hex")}`;
+
+    const stacksUncompressedAddress = getAddressFromPrivateKey(evmPK, TransactionVersion.Mainnet);
+    const stacksUncompressedPub = `0x${Buffer.from(getPublicKey(createStacksPrivateKey(evmPK)).data).toString("hex")}`;
+
+    const stacksCompressedAddress = getAddressFromPrivateKey(`${evmPK}01`, TransactionVersion.Mainnet);
+    const stacksCompressedPub = `0x${Buffer.from(getPublicKey(createStacksPrivateKey(evmPK + "01")).data).toString("hex")}`;
 
     console.log({
         ethAddress: ethers.utils.computeAddress(
@@ -55,8 +59,11 @@ const isTestnet = false;
         tonV3R2Address,
         ethPublic: `0x${key.getPublic().encode("hex")}`,
         tonPublic: `0x${Buffer.from(keyPair.publicKey).toString("hex")}`,
-        stacksAddress,
-        stacksPub,
-        hash160: createAddress(stacksAddress).hash160,
+        stacksUncompressedAddress,
+        stacksUncompressedPub,
+        stacksUncompressedHash160: createAddress(stacksUncompressedAddress).hash160,
+        stacksCompressedAddress,
+        stacksCompressedPub,
+        stacksCompressedHash160: createAddress(stacksCompressedAddress).hash160,
     });
 })();
