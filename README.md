@@ -22,7 +22,7 @@ EVM:
 
 STACKS:   
 - `stacks_address`, `stacks_pub`, `hash160` must be written, and these should be generated from the same private key as `eth_address`.
-- `stacks_address`, `stacks_pub`, `hash160` can be made using [STACKS KEY UTIL DOC](./utils/README.md)
+- `stacks_address`, `stacks_pub`, `hash160` can be made using [KEY UTILS DOC](./utils/README.md)
 ```json
 {
     "name": "",
@@ -47,6 +47,24 @@ XRP:
     "eth_address": "",
     "xrp_address": "",
     "xrp_address_converted_for_orbit_mig": "",
+    "homepage": "",
+    "contact": "",
+    "location": "",
+    "logo": "",
+    "description": ""
+}
+```
+
+TON:   
+- `tonV3R2Address`, `ethPublic`, `tonPublic` must be written, and these should be generated from the same private key as `eth_address`.
+- `tonV3R2Address`, `ethPublic`, `tonPublic` can be made using [KEY UTILS DOC](./utils/README.md)
+```json
+{
+    "name": "",
+    "eth_address": "",
+    "tonV3R2Address": "",
+    "ethPublic": "",
+    "tonPublic": "",
     "homepage": "",
     "contact": "",
     "location": "",
