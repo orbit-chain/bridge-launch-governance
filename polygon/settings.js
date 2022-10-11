@@ -13,6 +13,8 @@ module.exports = {
         'oec',
         'xdai',
         'eth',
+        "stacks",
+        "ton",
     ],
 
     // Bridge Addresses
@@ -22,9 +24,13 @@ module.exports = {
         HecoBridgeContract: "0xE7688F64e96A733EaDdCb5850392347e67Bb197f",
         KlaytnBridgeContract: "0x1af95905bb0042803f90e36d79d13aea6cd58969",
         OrbitBridgeContract: "0x77a49649964a186Fd2b8754758c39c9438a6E9aB",
+        StacksBridgeContract: "",
+        TonBridgeContract: "",
         MessageMultiSigWallet: {
             Hub: "0x98d729f9bD84AAC94639700e71B7916018A708B1",
             Orbit: "0x98d729f9bD84AAC94639700e71B7916018A708B1",
+            Stacks: "",
+            Ton: "",
             Avax: "0x98d729f9bD84AAC94639700e71B7916018A708B1",
             Bsc: "0x98d729f9bD84AAC94639700e71B7916018A708B1",
             Celo: "0x98d729f9bD84AAC94639700e71B7916018A708B1",
@@ -90,6 +96,21 @@ module.exports = {
             OecMinterContract: "0x506DC4c6408813948470a06ef6e4a1DaF228dbd5",
             MessageMultiSigWallet: "0x98d729f9bD84AAC94639700e71B7916018A708B1",
             OecAdminContract: "0x3b31c980598f9237d9C14bB44118773b92174720",
+        },
+        Oec: {
+            OecMinterContract: "0x506DC4c6408813948470a06ef6e4a1DaF228dbd5",
+            MessageMultiSigWallet: "0x98d729f9bD84AAC94639700e71B7916018A708B1",
+            OecAdminContract: "0x3b31c980598f9237d9C14bB44118773b92174720",
+        },
+        Stacks: {
+            DeployAddress: "",
+            MessageMultiSigWallet: "gov-matic",
+            "0x0000000000000000000000000000000000000000": "orbit-matic",
+            "0x82362Ec182Db3Cf7829014Bc61E9BE8a2E82868a": "orbit-mesh",
+        },
+        Ton: {
+            TonMinterContract: "EQBJF_RzTPQSo1jiJwMA30gVgWHk-u8hBYogFltiqAgLs8ep",
+            MessageMultiSigWallet: "EQAT5vlT1ddCCcoWa1InuZVJcYOdHd7dSziIiTjfzeQAzYRQ",
         },
         Xdai: {
             XdaiMinterContract: "0x506DC4c6408813948470a06ef6e4a1DaF228dbd5",
@@ -168,6 +189,14 @@ module.exports = {
         Oec: {
             rpc: ["https://exchainrpc.okex.org", "https://okc-mainnet.gateway.pokt.network/v1/lb/6275309bea1b320039c893ff"],
             socket: "wss://exchainws.okex.org:8443",
+        },
+        Stacks: {
+            rpc: 'https://stacks-node-api.mainnet.stacks.co',
+            socket: 'wss://stacks-node-api.mainnet.stacks.co',            
+        },
+        Ton: {
+            rpc: "https://toncenter.com/api/v2/jsonRPC",
+            apiKey: "REPLACE THIS STIRING TO ISSUED API TOKEN",
         },
         Xdai: {
             rpc: ["https://rpc.gnosischain.com", "https://rpc.ankr.com/gnosis", "https://gnosis-mainnet.public.blastapi.io"],
