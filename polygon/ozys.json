@@ -1,6 +1,11 @@
 {
     "name": "Ozys",
     "eth_address": "0x6515586467102257ae5e6a8d54492e1d8f4e0a3b",
+    "tonV3R2Address": "EQBPMcT9A5BIQimq9BKitZkTaewLjvTMVfzjHQB__yxv7DZf",
+    "tonPublic": "0x0cf0615c1807d16c3d452571595bfe2b7944f3ec18c53ae351f53a6d960ceab2",
+    "stacksAddress": "SP1GK149Q6D1SF27DGPWX0PWAKJGQ9MZRXKDDXDEM",
+    "stacksPub": "0x040bf5299f63f6226fd4d657241fb6d9725098d7e60d988601f870db155d70ecec89a5bfd654c4a3813e9a157e4d63b73f3d43f9ca4bd98b4eaf5ab6e3f13709f0",
+    "hash160": "6130913733439788ed85b9d05b8a9ca174d3f8ec",
     "homepage": "https://ozys.io",
     "contact": "support@ozys.io",
     "location": "KOREA",
