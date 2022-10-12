@@ -1,12 +1,12 @@
 {
-    "name": "TON",
+    "name": "TON Foundation",
     "eth_address": "0xb6320DF60DB74df233F23890cb66619708Ce7244",
     "tonV3R2Address": "EQArkyycDAUOjaT9myeq1L9_YVm1aD4FT1EAL-hrbH3WOxZI",
     "ethPublic": "0x04df39ed4094a068d183402f881eedec48596a989806a8f18f4c4fd0946264116e754cceabc95056d2d652757a04857160a75821a48a09180b2c91b447264fbd82",
     "tonPublic": "0xc7705e2efb757c037b3bcf4c63a633884b24bd36955b1e90c2639ce4d0dba198",
-    "homepage": "",
-    "contact": "",
-    "location": "KOREA",
-    "logo": "",
-    "description": ""
+    "homepage": "https://ton.org",
+    "contact": "society@ton.org",
+    "location": "DUBAI",
+    "logo": "https://ton.org/download/ton_symbol.png",
+    "description": "TON Foundation is a non-profit and non-incorporated DAO with governance from open-source community"
 }
