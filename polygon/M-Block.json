@@ -1,7 +1,11 @@
-
 {
     "name": "M-Block",
     "eth_address": "0x1C57ea31AADEC219E6e8E5Aa3D315f2066E6EC1f",
+    "tonV3R2Address": "EQA6XKBzBDeN1hqQZtyYZ-P9U6L0HdOizqQJC3mxsVKavGWV",
+    "tonPublic": "0x71a242a81bdcc0f5efcb9159343bcaee9a30351d9780a8144e8aa32c48898c0a",
+    "stacksCompressedAddress": "SP8JY6173CDSRJ7AD2QJ3DT1YND5Y5GBK485W745",
+    "stacksCompressedPub": "0x030723cbda168d23a40d3aacebbb823a626be9a91b2be69c0d16461dd5180ea2cc",
+    "stacksCompressedHash160": "112f18271b1b9c48ea68af21b741f55a5f160b99",
     "homepage": "https://m-block.io",
     "contact": "validator@m-block.io",
     "location": "KOREA",
