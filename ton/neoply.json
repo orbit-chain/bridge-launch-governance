@@ -1,9 +1,9 @@
 {
     "name": "NEOPLY",
-    "eth_address": "0xb69CEFe846A17dA145F1216Dc1218A560BB9fF8E",
-    "tonV3R2Address": "EQDrOAHBoQin10SUs4YdGAnGIyOt4LZHIksyxby9KUeFp5cG",
-    "ethPublic": "0x28c5215bc5e13c4cdebcb2c932c63344af38d2060f56742c84c700e3f21d3e7db0bb0b7f2fa32017d248c5444b6574db7f8c0ef9ffd549f841d00e0484ae83a5",
-    "tonPublic": "0x95c5fb988db4061316bf81de2349ca322ac94760d1126f9789febde3d4fb76ab",
+    "eth_address": "0xb210ADFD9E892136F79E8476C1C1B935B0f91e48",
+    "tonV3R2Address": "EQDacLDGJZv7dQgfJKjjvQXq_cGk5FCGdoj0B4PFd8dIRFpJ",
+    "ethPublic": "0x04064fc5abd7880f3f2b30bd87ade6bade67d7ae0fc43e3e8d8c1befe14a81810f2395863a1e739907e07b381402916a452f4a7244d8cecd4a2bc74610707f86f0",
+    "tonPublic": "0x84a488301900e1df9c7694da6e24bfd61c94bda4809e14741c261b83cfe611b1",
     "homepage": "https://neoply.io",
     "contact": "co_staking@neoply.com",
     "location": "KOREA",

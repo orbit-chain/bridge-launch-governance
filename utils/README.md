@@ -34,3 +34,9 @@ sudo docker run --rm ton.layer1:1.0
 yarn
 node ton/gen.validator.js
 ```
+
+### Generate STACKS, TON addresses by private key
+```
+yarn
+node generateAddress.js <pk>
+```
