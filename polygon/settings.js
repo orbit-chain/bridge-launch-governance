@@ -109,7 +109,7 @@ module.exports = {
             "0x82362Ec182Db3Cf7829014Bc61E9BE8a2E82868a": "orbit-mesh",
         },
         Ton: {
-            TonMinterContract: "EQBJF_RzTPQSo1jiJwMA30gVgWHk-u8hBYogFltiqAgLs8ep",
+            TonMinterContract: "EQCYQXpeslaR0zyZYLFhd8_ZFujE8OtI96NjWkrdjMbL-Tp5",
             MessageMultiSigWallet: "EQAT5vlT1ddCCcoWa1InuZVJcYOdHd7dSziIiTjfzeQAzYRQ",
         },
         Xdai: {
