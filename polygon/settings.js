@@ -191,8 +191,8 @@ module.exports = {
             socket: "wss://exchainws.okex.org:8443",
         },
         Stacks: {
-            rpc: 'https://stacks-node-api.mainnet.stacks.co',
-            socket: 'wss://stacks-node-api.mainnet.stacks.co',            
+            rpc: "https://stacks-node-api.mainnet.stacks.co",
+            network: "mainnet",
         },
         Ton: {
             rpc: "https://toncenter.com/api/v2/jsonRPC",
