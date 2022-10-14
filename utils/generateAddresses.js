@@ -53,7 +53,7 @@ const isTestnet = false;
     const stacksCompressedPub = `0x${Buffer.from(getPublicKey(createStacksPrivateKey(evmPK + "01")).data).toString("hex")}`;
 
     console.log({
-        ethAddress: ethers.utils.computeAddress(
+        eth_address: ethers.utils.computeAddress(
             `0x${key.getPublic().encode("hex")}`
         ),
         tonV3R2Address,

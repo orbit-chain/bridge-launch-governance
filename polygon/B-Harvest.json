@@ -1,6 +1,6 @@
 {
   "name": "B-Harvest",
-  "ethAddress": "0x1d97Ebb25a02813D05E14bC7696F05132BA7A60B",
+  "eth_address": "0x1d97Ebb25a02813D05E14bC7696F05132BA7A60B",
   "tonV3R2Address": "EQBc2JgbRzf_uVOzu93HAzloVmBOtwtLNqDeVVxSC-XK2EAl",
   "ethPublic": "0x04063f863ff01cd75f7b8929c61d529234bd7366a27b81a85925f099cd0ebaaa755547d0a25b99e7fb186ba282afa6fc3511a794e5d9a0497a2a03a71c5abd9bf0",
   "tonPublic": "0x2575e70ebcc7e1c666e9530e0e70a8b1d8c34b63d9cae0fb72a14ba0891d9cca",
