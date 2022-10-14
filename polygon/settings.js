@@ -109,7 +109,7 @@ module.exports = {
             "0x82362Ec182Db3Cf7829014Bc61E9BE8a2E82868a": "orbit-mesh",
         },
         Ton: {
-            TonMinterContract: "EQBJF_RzTPQSo1jiJwMA30gVgWHk-u8hBYogFltiqAgLs8ep",
+            TonMinterContract: "EQCYQXpeslaR0zyZYLFhd8_ZFujE8OtI96NjWkrdjMbL-Tp5",
             MessageMultiSigWallet: "EQAT5vlT1ddCCcoWa1InuZVJcYOdHd7dSziIiTjfzeQAzYRQ",
         },
         Xdai: {
@@ -191,8 +191,8 @@ module.exports = {
             socket: "wss://exchainws.okex.org:8443",
         },
         Stacks: {
-            rpc: 'https://stacks-node-api.mainnet.stacks.co',
-            socket: 'wss://stacks-node-api.mainnet.stacks.co',            
+            rpc: "https://stacks-node-api.mainnet.stacks.co",
+            network: "mainnet",
         },
         Ton: {
             rpc: "https://toncenter.com/api/v2/jsonRPC",
