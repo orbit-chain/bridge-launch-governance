@@ -24,12 +24,12 @@ module.exports = {
         HecoBridgeContract: "0xE7688F64e96A733EaDdCb5850392347e67Bb197f",
         KlaytnBridgeContract: "0x1af95905bb0042803f90e36d79d13aea6cd58969",
         OrbitBridgeContract: "0x77a49649964a186Fd2b8754758c39c9438a6E9aB",
-        StacksBridgeContract: "",
+        StacksBridgeContract: "0x77d50F8e3A95DC0FE71057E54E4Ee9C86147d861",
         TonBridgeContract: "0x25605C6247fDBC95D91275025ed3dc2632936c3a",
         MessageMultiSigWallet: {
             Hub: "0x98d729f9bD84AAC94639700e71B7916018A708B1",
             Orbit: "0x98d729f9bD84AAC94639700e71B7916018A708B1",
-            Stacks: "",
+            Stacks: "0x892E83F7A157Af28271365b59ca0AbC2fe4c1264",
             Ton: "0xab53b08dA0454279EEbc8CDa9F5ed0CDBC1821eB",
             Avax: "0x98d729f9bD84AAC94639700e71B7916018A708B1",
             Bsc: "0x98d729f9bD84AAC94639700e71B7916018A708B1",
@@ -103,7 +103,7 @@ module.exports = {
             OecAdminContract: "0x3b31c980598f9237d9C14bB44118773b92174720",
         },
         Stacks: {
-            DeployAddress: "",
+            DeployAddress: "SP1TPSNBTKXCYYXK8RPBVRPPZ5K073W178Q24YQYT",
             MessageMultiSigWallet: "gov-matic",
             "0x0000000000000000000000000000000000000000": "orbit-matic",
             "0x82362Ec182Db3Cf7829014Bc61E9BE8a2E82868a": "orbit-mesh",
@@ -191,8 +191,8 @@ module.exports = {
             socket: "wss://exchainws.okex.org:8443",
         },
         Stacks: {
-            rpc: "https://stacks-node-api.mainnet.stacks.co",
-            network: "mainnet",
+            url: "https://stacks-node-api.mainnet.stacks.co",
+            network: "mainnet",    
         },
         Ton: {
             rpc: "https://toncenter.com/api/v2/jsonRPC",
