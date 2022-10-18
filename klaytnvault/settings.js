@@ -166,7 +166,7 @@ module.exports = {
             socket: "wss://wss.api.moonriver.moonbeam.network",
         },
         Oec: {
-            rpc: ["https://exchainrpc.okex.org", "https://okc-mainnet.gateway.pokt.network/v1/lb/6275309bea1b320039c893ff"],
+            rpc: ["https://exchainrpc.okex.org", "https://oec.chain-node.orbitchain.io:7643"],
             socket: "wss://exchainws.okex.org:8443",
         },
         Xdai: {
