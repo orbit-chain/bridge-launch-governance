@@ -97,11 +97,6 @@ module.exports = {
             MessageMultiSigWallet: "0x98d729f9bD84AAC94639700e71B7916018A708B1",
             OecAdminContract: "0x3b31c980598f9237d9C14bB44118773b92174720",
         },
-        Oec: {
-            OecMinterContract: "0x506DC4c6408813948470a06ef6e4a1DaF228dbd5",
-            MessageMultiSigWallet: "0x98d729f9bD84AAC94639700e71B7916018A708B1",
-            OecAdminContract: "0x3b31c980598f9237d9C14bB44118773b92174720",
-        },
         Stacks: {
             DeployAddress: "SP1TPSNBTKXCYYXK8RPBVRPPZ5K073W178Q24YQYT",
             MessageMultiSigWallet: "gov-matic",
@@ -187,12 +182,12 @@ module.exports = {
             socket: "wss://wss.api.moonriver.moonbeam.network",
         },
         Oec: {
-            rpc: ["https://exchainrpc.okex.org", "https://okc-mainnet.gateway.pokt.network/v1/lb/6275309bea1b320039c893ff"],
+            rpc: ["https://exchainrpc.okex.org", "https://oec.chain-node.orbitchain.io:7643"],
             socket: "wss://exchainws.okex.org:8443",
         },
         Stacks: {
             url: "https://stacks-node-api.mainnet.stacks.co",
-            network: "mainnet",    
+            network: "mainnet",
         },
         Ton: {
             rpc: "https://toncenter.com/api/v2/jsonRPC",
