@@ -1,0 +1,12 @@
+{
+  "name": "Stacks Foundation",
+  "eth_address": "0x6117DFd58cEADaBC298eeC11ec2F8B33FeF8357A",
+  "stacks_address": "SP3YNDKZG4727Y8AD0B2YBDTGC7DSSXGWN9MY0RD7",
+  "stacks_pub": "0x04c9ae16ca9a32848d53a22684569c473b41fd85ec71e2960dd1da1993f213d698bdd7bc8d91376e0d93bbf0993472077ba6b85e52d4a07bb46e239517460333e9",
+  "hash160": "fd56cff021c47f214d02c5e5b75061db9cf61caa",
+  "homepage": "https://stacks.org",
+  "contact": "engineering@stacks.org",
+  "location": "US",
+  "logo": "https://gaia.blockstack.org/hub/1ESMWxxhSRU64PXDQ7amaYeMcKqN7QsL37/nexus-circle-dark-theme.png",
+  "description": "The Stacks Foundation supports the mission of a user owned internet through Stacks-related governance, research and development, education, and grants."
+}
