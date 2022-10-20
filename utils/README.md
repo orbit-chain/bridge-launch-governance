@@ -1,6 +1,14 @@
 # Utils
 - All commands are assumed to run in the `utils` directory.
 
+## Setting up environment
+One need to clone repo first:
+
+```bash
+git clone https://github.com/orbit-chain/bridge-launch-governance.git
+cd bridge-launch-governance/utils
+```
+
 ## Create Validator Info
 ### via Docker
 - It is possible to use the Docker image installed to some extent when operating the validator.
