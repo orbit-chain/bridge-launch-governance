@@ -1,0 +1,12 @@
+{
+    "name": "First Stage Labs",
+    "eth_address": "0xaE70392aDCF7C7cDBfbD4D522C5e02C860eb6df2",
+    "tonV3R2Address": "EQAzh1xxfzfzQ3p2a6GZu2Mn-8jUwts3tIpadhEz_ZQRlqDN",
+    "ethPublic": "0x04f782922ef5fe7c8b5a146f7616d5aed18323b5a15b3ce4c51b5d293018ee9b352a7a13e15a3c1728c5bd23b4906510bca242bc6ea3e721d142aeed9a8bdf0a70",
+    "tonPublic": "0x87cbde9ee239dd721b01b8a51d3e2f90119aa0d1ecc41b96103e82a26e7d90cd",
+    "homepage": "https://fslabs.io",
+    "contact": "kir@fslabs.io",
+    "location": "UAE",
+    "logo": "https://fslabs.io/img/logo.svg",
+    "description": "Venture builder with focus on mass adoption and an investment arm."
+}
