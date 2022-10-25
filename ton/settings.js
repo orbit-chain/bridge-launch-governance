@@ -40,7 +40,7 @@ module.exports = {
             Xdai: "0x4dd5c30ae4a140d3B9180c778bD2e74c8e64E38A",
         },
         Ton: {
-            TonVaultContract: "EQCvhUBUsF-kLqHRdYu6SIB1XJStPhOZqklX6D7sHn4ZdgXt",
+            TonVaultContract: "EQDRgtawSTLvWyf_h5vgYMx1QNl-KjxqmvcZZjly6IB7GJRv",
             MessageMultiSigWallet: "EQDnNyez-GZCyJ5dmlGyPrblbNHbhG1U5M_Ykk6-7nOL6ynj",
         },
         Avax: {
@@ -103,9 +103,9 @@ module.exports = {
         },
         Governance: {
             Chain: "TON_LAYER_1",
-            Address: "EQCvhUBUsF-kLqHRdYu6SIB1XJStPhOZqklX6D7sHn4ZdgXt",
-            Bytes: "0xaf854054b05fa42ea1d1758bba4880755c94ad3e1399aa4957e83eec1e7e1976",
-            Id: "0xc9c53518b0b2d48d67c434a80f33de2150a4c24a3fa53f79f7fc091b798b749d",
+            Address: "EQDRgtawSTLvWyf_h5vgYMx1QNl-KjxqmvcZZjly6IB7GJRv",
+            Bytes: "0xd182d6b04932ef5b27ff879be060cc7540d97e2a3c6a9af719663972e8807b18",
+            Id: "0xfffb0ad82866f3e6b2475e04637124cc2719e557e42ed91f92ef9e02e816afd4",
         },
     },
 
