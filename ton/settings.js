@@ -23,7 +23,7 @@ module.exports = {
         KlaytnBridgeContract: "0x1af95905bb0042803f90e36d79d13aea6cd58969",
         OrbitBridgeContract: "0x77a49649964a186Fd2b8754758c39c9438a6E9aB",
         TonBridgeContract: "0xB773f5A2C0537964efC07B2ED13C89cE8FE7CCbA",
-        TonAddressBook: "0xFa04663E2725367215A41c856AeFEDe56bb31038",
+        TonAddressBook: "0x005be6cAF238609E23949EF75fC1a0a13Ea02928",
         MessageMultiSigWallet: {
             Hub: "0x4dd5c30ae4a140d3B9180c778bD2e74c8e64E38A",
             Ton: "0x4dd5c30ae4a140d3B9180c778bD2e74c8e64E38A",
@@ -40,8 +40,8 @@ module.exports = {
             Xdai: "0x4dd5c30ae4a140d3B9180c778bD2e74c8e64E38A",
         },
         Ton: {
-            TonVaultContract: "EQDRgtawSTLvWyf_h5vgYMx1QNl-KjxqmvcZZjly6IB7GJRv",
-            MessageMultiSigWallet: "EQDnNyez-GZCyJ5dmlGyPrblbNHbhG1U5M_Ykk6-7nOL6ynj",
+            TonVaultContract: "EQCKFA1RuGJnaAqUPFXHgKxLOnhcL_amICDRWMOfZRI3T4_h",
+            MessageMultiSigWallet: "EQA6HwnE1jxxczPKe3aRIyTvyNqtxaFWjKect90jS-01qEjw",
         },
         Avax: {
             AvaxMinterContract: "0x58A42330c0984babD5DEc2C943eAA345B7f41e44",
@@ -59,8 +59,8 @@ module.exports = {
             CeloAdminContract: "0x8966c07b38dcb277f1e5264368Cafb289DBCab4f",
         },
         Eth: {
-            EthMinterContract: "0x012c6d79b189e1aBD1EFaC759b275c5D49Abd164",
-            MessageMultiSigWallet: "0x58A42330c0984babD5DEc2C943eAA345B7f41e44",
+            EthMinterContract: "0x5Cc6a1Dc39E523eFd6C42534a478942Cadd24f8C",
+            MessageMultiSigWallet: "0x4dd5c30ae4a140d3B9180c778bD2e74c8e64E38A",
             EthAdminContract: "0x8966c07b38dcb277f1e5264368Cafb289DBCab4f",
         },
         Fantom: {
@@ -103,9 +103,9 @@ module.exports = {
         },
         Governance: {
             Chain: "TON_LAYER_1",
-            Address: "EQDRgtawSTLvWyf_h5vgYMx1QNl-KjxqmvcZZjly6IB7GJRv",
-            Bytes: "0xd182d6b04932ef5b27ff879be060cc7540d97e2a3c6a9af719663972e8807b18",
-            Id: "0xfffb0ad82866f3e6b2475e04637124cc2719e557e42ed91f92ef9e02e816afd4",
+            Address: "EQCKFA1RuGJnaAqUPFXHgKxLOnhcL_amICDRWMOfZRI3T4_h",
+            Bytes: "0x8a140d51b86267680a943c55c780ac4b3a785c2ff6a62020d158c39f6512374f",
+            Id: "0xc25b710f269dfffd6f045756d330b084451c6a0db366309b7f400859a1b76db4",
         },
     },
 
@@ -139,10 +139,6 @@ module.exports = {
         Fantom: {
             rpc: ["https://rpc.ftm.tools", "https://rpc.fantom.network", "https://rpc.ankr.com/fantom"],
             socket: "wss://wsapi.fantom.network",
-        },
-        Harmony: {
-            rpc: ["https://api.harmony.one", "https://rpc.ankr.com/harmony", "https://harmony-mainnet.chainstacklabs.com"],
-            socket: "wss://ws.s0.t.hmny.io",
         },
         Heco: {
             rpc : ["https://heco.chain-node.orbitchain.io:7643", "https://http-mainnet.hecochain.com"],
