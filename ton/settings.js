@@ -59,8 +59,8 @@ module.exports = {
             CeloAdminContract: "0x8966c07b38dcb277f1e5264368Cafb289DBCab4f",
         },
         Eth: {
-            EthMinterContract: "0x012c6d79b189e1aBD1EFaC759b275c5D49Abd164",
-            MessageMultiSigWallet: "0x58A42330c0984babD5DEc2C943eAA345B7f41e44",
+            EthMinterContract: "0x5Cc6a1Dc39E523eFd6C42534a478942Cadd24f8C",
+            MessageMultiSigWallet: "0x4dd5c30ae4a140d3B9180c778bD2e74c8e64E38A",
             EthAdminContract: "0x8966c07b38dcb277f1e5264368Cafb289DBCab4f",
         },
         Fantom: {
@@ -139,10 +139,6 @@ module.exports = {
         Fantom: {
             rpc: ["https://rpc.ftm.tools", "https://rpc.fantom.network", "https://rpc.ankr.com/fantom"],
             socket: "wss://wsapi.fantom.network",
-        },
-        Harmony: {
-            rpc: ["https://api.harmony.one", "https://rpc.ankr.com/harmony", "https://harmony-mainnet.chainstacklabs.com"],
-            socket: "wss://ws.s0.t.hmny.io",
         },
         Heco: {
             rpc : ["https://heco.chain-node.orbitchain.io:7643", "https://http-mainnet.hecochain.com"],
