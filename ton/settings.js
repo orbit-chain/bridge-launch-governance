@@ -75,7 +75,7 @@ module.exports = {
         },
         Klay: {
             KlaytnMinterContract: "0x58A42330c0984babD5DEc2C943eAA345B7f41e44",
-            MessageMultiSigWallet: "0x58A42330c0984babD5DEc2C943eAA345B7f41e44",
+            MessageMultiSigWallet: "0x4dd5c30ae4a140d3B9180c778bD2e74c8e64E38A",
         },
         Matic: {
             MaticMinterContract: "0x58A42330c0984babD5DEc2C943eAA345B7f41e44",
