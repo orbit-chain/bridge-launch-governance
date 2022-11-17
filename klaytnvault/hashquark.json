@@ -1,6 +1,11 @@
 {
     "name": "HashQuark",
     "eth_address": "0x31d703cd7f86121A6303550C9598cA58F626e9f3",
+    "tonV3R2Address":"EQCILDPbiupYc7RsJHIfimC6I3gG8GOTxSAfHQKW6RRP6_EZ",
+    "tonPublic":"0x6eb23cf342370b82f1f385bda936e0a69eaa43ad435b1d410a013d812d761e85",
+    "stacksCompressedAddress":"SP3ZXNTYRNE5YMKWSVAKD0S9EP7DNG6CD0CNHMX93",
+    "stacksCompressedPub":"0x03cf0905dac112ad20c99e36b1eef612cbe33203217bf163d483b4f4115b48d482",
+    "stacksCompressedHash160":"ffdaebd8ab8bea4f99daa6d0652eb1db58198d03",
     "homepage": "https://hashquark.io/",
     "contact": "contract@hashquark.io",
     "location": "Hong Kong",
