@@ -1,6 +1,12 @@
 {
     "name": "GroundX",
-    "eth_address": "0x7ad986a9545021cc5bb5915d1c40ed825559ba45",
+    "eth_address": "0x7aD986a9545021Cc5BB5915d1c40Ed825559ba45",
+    "tonV3R2Address": "EQBNfTQW4WhFclvw8OyhPG_9fwE3M9g18M5jlCnV_UxRYuj0",
+    "ethPublic": "0x0465ea49174f494788fc23d12c98cdbf98b12e3e8820904a69ac083c0cc7f7fa8479549bfc51fda5ad4e299e02a5796b6f9ca988d78789178e03cb450e9f8efbda",
+    "tonPublic": "0x3f3de88655aada4276e329737cf7386a8777bf755944c6f213f5f36310977a8d",
+    "stacksCompressedAddress": "SP20ED98Q85P2MP6SDBE9F6J26YMV9G0GFRV97ABX",
+    "stacksCompressedPub": "0x0265ea49174f494788fc23d12c98cdbf98b12e3e8820904a69ac083c0cc7f7fa84",
+    "stacksCompressedHash160": "80e6a517416c2a58d96adc979a4237a9b4c0107e",
     "homepage": "https://www.groundx.xyz.com/",
     "contact": "contact@groundx.xyz",
     "location": "KOREA",
