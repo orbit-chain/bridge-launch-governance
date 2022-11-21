@@ -1,9 +1,9 @@
 {
-    "name": "AhnLab",
+    "name": "AhnLab Blockchain Company",
     "eth_address": "0x3b6590ff12ba188e465395e1610d8368613054b0",
-    "homepage": "",
-    "contact": "",
-    "location": "",
-    "logo": "",
-    "description": ""
+    "homepage": "https://myabcwallet.io",
+    "contact": "help@myabcwallet.io",
+    "location": "Korea",
+    "logo": "https://myabcwallet.io/wp-content/uploads/2022/07/CI_ABC_Cube_white_color.png",
+    "description": "AhnLab Blockchain Company provides a safe and convenient blockchain wallet service based on AhnLab’s security DNA."
 }
