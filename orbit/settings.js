@@ -66,7 +66,7 @@ module.exports = {
         },
         Klaytn: {
             isKas: false,
-            rpc: ["https://klaytn-mainnet-rpc.allthatnode.com:8551", "https://klaytn03.fandom.finance", "https://klaytn02.fandom.finance", "https://public-node-api.klaytnapi.com/v1/cypress",],
+            rpc: ["https://klaytn-mainnet-rpc.allthatnode.com:8551", "https://klaytn01.fautor.app", "https://klaytn02.fautor.app", "https://public-node-api.klaytnapi.com/v1/cypress"],
             socket: "wss://public-node-api.klaytnapi.com/v1/cypress/ws",
             Kas: {
                 // KAS Default
