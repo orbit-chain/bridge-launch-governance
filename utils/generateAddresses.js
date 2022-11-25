@@ -50,6 +50,7 @@ const isTestnet = false;
     const stacksUncompressedPub = `0x${Buffer.from(getPublicKey(createStacksPrivateKey(evmPK)).data).toString("hex")}`;
 
     const stacksCompressedAddress = getAddressFromPrivateKey(`${evmPK}01`, TransactionVersion.Mainnet);
+    const stacksTestnetCompressedAddress = getAddressFromPrivateKey(`${evmPK}01`, TransactionVersion.Testnet);
     const stacksCompressedPub = `0x${Buffer.from(getPublicKey(createStacksPrivateKey(evmPK + "01")).data).toString("hex")}`;
 
     console.log({
@@ -63,6 +64,7 @@ const isTestnet = false;
         // stacksUncompressedPub,
         // stacksUncompressedHash160: createAddress(stacksUncompressedAddress).hash160,
         stacksCompressedAddress,
+        stacksTestnetCompressedAddress,
         stacksCompressedPub,
         stacksCompressedHash160: createAddress(stacksCompressedAddress).hash160,
     });
