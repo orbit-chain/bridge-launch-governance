@@ -124,7 +124,7 @@ module.exports = {
             socket: "https://api.avax.network/ext/bc/C/ws",
         },
         Bsc: {
-            rpc : ["https://bsc-dataseed.binance.org", "https://bsc-dataseed1.binance.org", "https://rpc.ankr.com/bsc", "https://bsc.chain-node.orbitchain.io:7643"],
+            rpc : ["https://bscrpc.com", "https://rpc.ankr.com/bsc", "https://bsc.chain-node.orbitchain.io:7643"],
             socket: "wss://bsc-ws-node.nariox.org:443",
         },
         Celo: {
