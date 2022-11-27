@@ -83,7 +83,7 @@ module.exports = {
             socket: "wss://ws-mainnet.hecochain.com",
         },
         Bsc: {
-            rpc : ["https://bsc-dataseed.binance.org", "https://bscrpc.com", "https://bsc.mytokenpocket.vip", "https://rpc.ankr.com/bsc", "https://binance.nodereal.io",],
+            rpc : ["https://bscrpc.com", "https://rpc.ankr.com/bsc", "https://bsc.chain-node.orbitchain.io:7643"],
             socket: "wss://bsc-ws-node.nariox.org:443",
         },
     },
