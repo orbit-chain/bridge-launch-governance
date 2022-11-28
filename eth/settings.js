@@ -15,6 +15,8 @@ module.exports = {
         'moonriver',
         'oec',
         'xdai',
+        "stacks",
+        "ton",
     ],
 
     // Bridge Addresses
@@ -24,6 +26,8 @@ module.exports = {
         KlaytnBridgeContract: "0x1af95905bb0042803f90e36d79d13aea6cd58969",
         IconBridgeContract: "0x6819374cb320d1184a681e2b53ad858d16b9c8fa",
         OrbitBridgeContract: "0x77a49649964a186Fd2b8754758c39c9438a6E9aB",
+        StacksBridgeContract: "0x77d50F8e3A95DC0FE71057E54E4Ee9C86147d861",
+        TonBridgeContract: "0x25605C6247fDBC95D91275025ed3dc2632936c3a",
         MessageMultiSigWallet: {
             Hub: "0xfffec9385a40a12f8526fefc0036b6fc44b68092",
             Eth: "0xfffec9385a40a12f8526fefc0036b6fc44b68092",
@@ -38,6 +42,8 @@ module.exports = {
             Matic: "0xfffec9385a40a12f8526fefc0036b6fc44b68092",
             Moonriver: "0xfffec9385a40a12f8526fefc0036b6fc44b68092",
             Oec: "0xfffec9385a40a12f8526fefc0036b6fc44b68092",
+            Stacks: "0xe62Fa6C59AD14B46d4e7791FA817030732953b79",
+            Ton: "0xFb504CD4eD46024B83c4337044995CF112205f18",
             Xdai: "0xfffec9385a40a12f8526fefc0036b6fc44b68092",
             Orbit: "0xfffec9385a40a12f8526fefc0036b6fc44b68092",
         },
@@ -96,6 +102,19 @@ module.exports = {
             OecMinterContract: "0x6BD8E3beEC87176BA9c705c9507Aa5e6F0E6706f",
             MessageMultiSigWallet: "0xFA9c34485c3a706725130E8e0217431AC000E31e",
             OecAdminContract: "0xe62Fa6C59AD14B46d4e7791FA817030732953b79",
+        },
+        Stacks: {
+            DeployAddress: "SP3TFQJG55DV78VZEYVD7NSNDT3SF2C9R37SKZA1C",
+            MessageMultiSigWallet: "gov-eth",
+            "0x0000000000000000000000000000000000000000": "orbit-eth",
+            "0xdac17f958d2ee523a2206206994597c13d831ec7": "orbit-usdt",
+            "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "orbit-usdc",
+            "0xc355fe6e4e99c0b93577f08c4e9a599714435912": "orbit-dai",
+            "0x662b67d00a13faf93254714dd601f5ed49ef2f51": "orbit-orc",
+        },
+        Ton: {
+            TonMinterContract: "EQAihs8RdUgLANjNypV5LgaUHfdoUsMVL5o06K2F-qFSki00",
+            MessageMultiSigWallet: "EQBbAqI1eVJ8PbZpKXA5njk6hq8Q6ZUxwXLZf-ntG1wf90Tm",
         },
         Xdai: {
             XdaiMinterContract: "0x6BD8E3beEC87176BA9c705c9507Aa5e6F0E6706f",
@@ -181,6 +200,14 @@ module.exports = {
         Oec: {
             rpc: ["https://exchainrpc.okex.org", "https://oec.chain-node.orbitchain.io:7643"],
             socket: "wss://exchainws.okex.org:8443",
+        },
+        Stacks: {
+            url: "https://stacks-node-api.mainnet.stacks.co",
+            network: "mainnet",
+        },
+        Ton: {
+            rpc: "https://toncenter.com/api/v2/jsonRPC",
+            apiKey: "REPLACE THIS STIRING TO ISSUED API TOKEN",
         },
         Xdai: {
             rpc: ["https://rpc.gnosischain.com", "https://rpc.ankr.com/gnosis", "https://gnosis-mainnet.public.blastapi.io"],
