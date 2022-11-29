@@ -1,6 +1,13 @@
 {
     "name": "ICON Foundation",
     "eth_address": "0x1c0cd56f1c3e2cf13b9b44dbe5529104bade543e",
+    "tonV3R2Address": "EQDzgGzdge7Ll_znkoWIEJC8Og9Vp5inc1-GxW_DMyRs02gY",
+    "ethPublic": "0x046a4182f56e67cb28bd32a67b67b649821b1938c3ac55eee24a52ff85eea742f538957b9630a5a11e3fb6437067e8d63ecad58426ad0061c6da264718efc5b9ac",
+    "tonPublic": "0xb005518a6a1f91567697f8d3302610634c656be3ebadcf5b00c7d72cf0aaa59a",
+    "stacksCompressedAddress": "SP2ZF6KYDWSFRKNZHSRED8C70W9VM72DDTKYJCZ0A",
+    "stacksTestnetCompressedAddress": "ST2ZF6KYDWSFRKNZHSRED8C70W9VM72DDTJRAX2T9",
+    "stacksCompressedPub": "0x026a4182f56e67cb28bd32a67b67b649821b1938c3ac55eee24a52ff85eea742f5",
+    "stacksCompressedHash160": "bef34fcde65f89d7f1ce1cd430e0e2774389add4",
     "homepage": "https://icon.foundation",
     "contact": "hello@icon.foundation",
     "location": "Switzerland",
