@@ -13,8 +13,8 @@ module.exports = {
         'oec',
         'xdai',
         'eth',
-        "stacks",
-        "ton"
+        'stacks',
+        'ton'
     ],
 
     // Bridge Addresses
