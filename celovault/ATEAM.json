@@ -1,0 +1,9 @@
+{
+        "name": "ATEAM",
+        "eth_address": "0xA56EAC99921a22668D37EE0a7226DE06B0362dD3",
+        "homepage": "https://nodeateam.com",
+        "contact": "contact@nodeateam.com",
+        "location": "KOREA",
+        "logo": "https://raw.githubusercontent.com/node-a-team/info/master/img/logo_ateam.png",
+        "description": "Node A-Team is an experienced Proof-of-Stake validator for Orbit, Rzon, Fetch.ai, Cosmos, Terra, BandProtocol, Kava, IRISnet, Polygon, E-money, Certik, Starname, and Solana"
+}

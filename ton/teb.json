@@ -1,0 +1,12 @@
+{
+    "name": "Teb",
+    "eth_address": "0xf49c0CAd3955a2A9b6dA376122FE957D186747ff",
+    "tonV3R2Address": "EQCp7-3bZ02f3Tif1DCHYqcWZI8bzclwrwIeXd_wOmpxxJhJ",
+    "ethPublic": "0x04f0a28edc5c99e8bfc9e18045d2d0a1bc853aaf34d6903a60f9bfe8042b17f5591d83c0f5a12ac67a62b9da4defea2db5b84ecca42c3e4415be646f4850790d84",
+    "tonPublic": "0xe82be533cba78623028421431fb7c519f3f383c1be792215fa21d3edf184a941",
+    "homepage": "https://tebplace.com",
+    "contact": "contact@tebplace.com",
+    "location": "KOREA",
+    "logo": "https://teb-static-assets.s3.ap-northeast-2.amazonaws.com/wallet-logo.png",
+    "description": "An ecosystem builder developing infrastructure and incubating projects to realize the immense potential of the TON blockchain layer"
+}

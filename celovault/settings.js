@@ -1,40 +1,41 @@
 module.exports = {
     // operating chain list
     chainList: [
-        "icon",
-        "klaytn",
-        "orbit",
+        'celo',
+        'klaytn',
+        'orbit',
     ],
 
     // Bridge Addresses
     BridgeAddress: {
         OrbitHubContract: "0xb5680a55d627c52de992e3ea52a86f19da475399",
         KlaytnBridgeContract: "0x1af95905bb0042803f90e36d79d13aea6cd58969",
-        IconBridgeContract: "0x6819374cb320d1184a681e2b53ad858d16b9c8fa",
+        CeloBridgeContract: "0x9fae958393B59ccb5e707B274615e214c8BD0AE1",
         OrbitBridgeContract: "0x77a49649964a186Fd2b8754758c39c9438a6E9aB",
         MessageMultiSigWallet: {
-            Hub: "0xa535306Ee1e5438B943b034f5956dc56AA54EF84",
-            Klaytn: "0xa535306Ee1e5438B943b034f5956dc56AA54EF84",
-            Icon: "0xa535306Ee1e5438B943b034f5956dc56AA54EF84",
-            Orbit: "0xa535306Ee1e5438B943b034f5956dc56AA54EF84"
+            Hub: "0xE665028E06Cab79928D8e607E0de99FfD7Eb76A7",
+            Klaytn: "0xE665028E06Cab79928D8e607E0de99FfD7Eb76A7",
+            Celo: "0xE665028E06Cab79928D8e607E0de99FfD7Eb76A7",
+            Orbit: "0xE665028E06Cab79928D8e607E0de99FfD7Eb76A7"
         },
         Klay: {
-            KlaytnMinterContract: "0xcD953813896F766f1Eb9B613610E1752eD6F8395",
-            MessageMultiSigWallet: "0xF6E3F95a1AC1C9A86Fa5C3c61DbD3D3BC6B566B5",
+            KlaytnMinterContract: "0x979cD0826C2bf62703Ef62221a4feA1f23da3777",
+            MessageMultiSigWallet: "0xE665028E06Cab79928D8e607E0de99FfD7Eb76A7",
         },
-        Icon: {
-            IconVaultContract: "cxa82aa03dae9ca03e3537a8a1e2f045bcae86fd3f",
-            MessageMultiSigWallet: "cxd41e399c809a3671191c916d619e4d0fef04feea",
+        Celo: {
+            CeloVaultContract: "0x979cD0826C2bf62703Ef62221a4feA1f23da3777",
+            MessageMultiSigWallet: "0xE665028E06Cab79928D8e607E0de99FfD7Eb76A7",
+            CeloAdminContract: "0x6a1cf2e4b8DF2C2707e34cad35D8AF4535510F53",
         },
         Orbit: {
-            OrbitMinterContract: "0xcD953813896F766f1Eb9B613610E1752eD6F8395",
-            MessageMultiSigWallet: "0xa535306Ee1e5438B943b034f5956dc56AA54EF84",
+            OrbitMinterContract: "0x979cD0826C2bf62703Ef62221a4feA1f23da3777",
+            MessageMultiSigWallet: "0xE665028E06Cab79928D8e607E0de99FfD7Eb76A7",
         },
         Governance: {
-            Chain: "ICON",
-            Address: "cxa82aa03dae9ca03e3537a8a1e2f045bcae86fd3f",
-            Bytes: "0x01a82aa03dae9ca03e3537a8a1e2f045bcae86fd3f",
-            Id: "0x6432be95e9ad50213ac792ac86951833cb24e47523feb923a677c711b05539e7",
+            Chain: "CELO",
+            Address: "0x979cD0826C2bf62703Ef62221a4feA1f23da3777",
+            Bytes: "0x979cD0826C2bf62703Ef62221a4feA1f23da3777",
+            Id: "0x6c09d7b79b91a3d49c3648a1bbc811f1b99f16045218e72a597a7692580ccab1",
         },
     },
 
@@ -58,12 +59,9 @@ module.exports = {
             rpc: ["https://klaytn-mainnet-rpc.allthatnode.com:8551", "https://klaytn01.fautor.app", "https://klaytn02.fautor.app", "https://public-node-api.klaytnapi.com/v1/cypress"],
             socket: "wss://public-node-api.klaytnapi.com/v1/cypress/ws"
         },
-        Icon: {
-            api: "https://icon.chain-node.orbitchain.io:7643/api/v3",
-            rpc: "https://icon.chain-node.orbitchain.io:7643/api/v3",
-            debug: "https://icon.chain-node.orbitchain.io:7643/api/debug/v3",
-            version: 3,
-            nid: 1,
+        Celo: {
+            rpc: ["https://forno.celo.org", "https://rpc.ankr.com/celo", "https://celo.chain-node.orbitchain.io:7643"],
+            socket: "wss://forno.celo.org/ws",
         },
     },
 
@@ -79,6 +77,9 @@ module.exports = {
     DEBUG: true,
     LOGLEVEL: 'debug',
 
+    CELO_GAS_PRICE: 5 * 10 ** 9,
+
+    //TODO: Replace PK
     VALIDATOR_ACCOUNT: {
         TYPE: "PK",
         DATA: "0000000000000000000000000000000000000000000000000000000000000000",

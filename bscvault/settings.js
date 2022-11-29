@@ -1,7 +1,7 @@
 module.exports = {
     // operating chain list
     chainList: [
-        'klaytn-v2',
+        'klaytn',
         'orbit',
         'bsc',
         'heco',
@@ -71,21 +71,32 @@ module.exports = {
                 // Your Credential
                 accessKeyId: "",
                 secretAccessKey: ""
-            }
+            },
+            rpc: ["https://klaytn-mainnet-rpc.allthatnode.com:8551", "https://klaytn01.fautor.app", "https://klaytn02.fautor.app", "https://public-node-api.klaytnapi.com/v1/cypress"],
+            socket: "wss://public-node-api.klaytnapi.com/v1/cypress/ws"
         },
         Heco: {
-            rpc : "https://http-mainnet-node.huobichain.com",
+            rpc : ["https://heco.chain-node.orbitchain.io:7643", "https://http-mainnet.hecochain.com"],
             socket: "wss://ws-mainnet.hecochain.com",
         },
         Bsc: {
-            rpc : "https://bsc-dataseed.binance.org",
+            rpc : ["https://bscrpc.com", "https://rpc.ankr.com/bsc", "https://bsc.chain-node.orbitchain.io:7643"],
             socket: "wss://bsc-ws-node.nariox.org:443",
         },
         Matic: {
-            rpc : "https://rpc-mainnet.maticvigil.com",
+            rpc: ["https://polygon-rpc.com", "https://matic.chain-node.orbitchain.io:7643", "https://rpc.ankr.com/polygon"],
             socket: "wss://rpc-mainnet.matic.quiknode.pro",
         },
     },
+
+    ETH_CHAIN_ID: '0x1',
+    AVAX_CHAIN_ID: '0xa86a',
+    CELO_CHAIN_ID: '0xa4ec',
+    FANTOM_CHAIN_ID: '0xfa',
+    HARMONY_CHAIN_ID: 1666600000,
+    HECO_CHAIN_ID: '0x80',
+    MATIC_CHAIN_ID: '0x89',
+    OEC_CHAIN_ID: 66,
 
     DEBUG: true,
     LOGLEVEL: 'debug',
@@ -98,7 +109,7 @@ module.exports = {
 
     VALIDATOR_MONITOR: {
         Ozys: {
-            Endpoint: "https://bridge-en.orbitchain.io:7743/bscvault/v1/validator/report",
+            Endpoint: "https://bridge-en.orbitchain.io:7743/v1/validator/report",
             Interval: 60 * 1000,
         },
     },
