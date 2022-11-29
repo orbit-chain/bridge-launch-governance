@@ -12,7 +12,9 @@ module.exports = {
         'orbit',
         'oec',
         'xdai',
-        'eth',
+        'eth',,
+        "stacks",
+        "ton"
     ],
 
     // Bridge Addresses
@@ -35,6 +37,8 @@ module.exports = {
             Matic: "0xcAA1B50341ad8Eb69A7bb1985bf39224044B1d48",
             Moonriver: "0xcAA1B50341ad8Eb69A7bb1985bf39224044B1d48",
             Oec: "0xcAA1B50341ad8Eb69A7bb1985bf39224044B1d48",
+            Stacks: "0x225a23428FEb303F3821C90ceA8e35C612260a42",
+            Ton: "0x43aE0689156d644f4b1De4a75a4586867A9d3CF0",
             Xdai: "0xcAA1B50341ad8Eb69A7bb1985bf39224044B1d48",
         },
         Avax: {
@@ -96,11 +100,11 @@ module.exports = {
 			MessageMultiSigWallet: "gov-matic",
 			"0x0000000000000000000000000000000000000000": "orbit-klay",
 			"0xc6a2ad8cc6e4a7e08fc37cc5954be07d499e7654": "orbit-ksp",
-		},
-		Ton: {
-			TonMinterContract: "EQAlMRLTYOoG6kM0d3dLHqgK30ol3qIYwMNtEelktzXP_pD5",
-			MessageMultiSigWallet: "EQAblz6Xr6b-7eLAWeagIK2Dn-g81YiNpu0okHfc9EwY9_72",
-		},
+        },
+        Ton: {
+            TonMinterContract: "EQAlMRLTYOoG6kM0d3dLHqgK30ol3qIYwMNtEelktzXP_pD5",
+            MessageMultiSigWallet: "EQAblz6Xr6b-7eLAWeagIK2Dn-g81YiNpu0okHfc9EwY9_72",
+        },
         Xdai: {
             XdaiMinterContract: "0x9abc3f6c11dbd83234d6e6b2c373dfc1893f648d",
             MessageMultiSigWallet: "0xcAA1B50341ad8Eb69A7bb1985bf39224044B1d48",
