@@ -1,6 +1,13 @@
 {
     "name": "Node A-TEAM",
     "eth_address": "0xd1176F2f576C102F6516D386De53ec7a72Cc1491",
+    "tonV3R2Address": "EQDqEm5NQUsVOITkiHvJ_-CaQaLd5WWeAbLQwTPEqvjqn2PG",
+    "ethPublic": "0x043277d36a34b03d2d4dad6ac58b5bbce454b505f5746da6423785675311c5fc7073f1be9bbb05e9d7d1f8a6a740dfc703fa0a346dfa66caaa6a564aadd76ea9ed",
+    "tonPublic": "0x6355d331a61444dbff457c30e525ccd69a9d062851b946062c7424b13cbec202",
+    "stacksCompressedAddress": "SP37BYYVZAG396E03AVKE6N801RKVGDVVCB1S0B7F",
+    "stacksTestnetCompressedAddress": "ST37BYYVZAG396E03AVKE6N801RKVGDVVCBMKAJW0",
+    "stacksCompressedPub": "0x033277d36a34b03d2d4dad6ac58b5bbce454b505f5746da6423785675311c5fc70",
+    "stacksCompressedHash160": "cebf7b7f540693380356e6e355000e27b8377b62",
     "homepage": "https://nodeateam.com",
     "contact": "contact@nodeateam.com",
     "location": "KOREA",
