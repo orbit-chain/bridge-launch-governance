@@ -12,7 +12,7 @@ module.exports = {
         'orbit',
         'oec',
         'xdai',
-        'eth',,
+        'eth',
         "stacks",
         "ton"
     ],
