@@ -1,6 +1,12 @@
 {
     "name": "Everstake",
     "eth_address": "0xa6dc28CbcB2f8060a00b4FA67F9b67775AC5a3a1",
+    "tonV3R2Address": "EQAqKxdxcK8Hm4_gRiIPemNukES4aYPvuPkuJUejNetbnNp-",
+    "ethPublic": "0x0450e7c8c3e7e8c030e6742d66f8dbbe3a622ba7211e958e99f280f917813ab28cfc69430668029f2376345b45694e46f8454d8c924d29b96e91d284e7c78f3fc0",
+    "tonPublic": "0x0866c5da6fe4cc34b3252248505223a70118320421d05ceba3a81b93a6aecede",
+    "stacksCompressedAddress": "SPTNB6MMMSFP0RAWP02JKM887DY0GAFCWAFEVDKG",
+    "stacksCompressedPub": "0x0250e7c8c3e7e8c030e6742d66f8dbbe3a622ba7211e958e99f280f917813ab28c",
+    "stacksCompressedHash160": "35559a94a65f60615cb00529d1083b7c0829ece2",
     "homepage": "https://everstake.one",
     "contact": "inbox@everstake.one",
     "location": "UKRAINE",
