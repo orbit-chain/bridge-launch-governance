@@ -74,7 +74,7 @@ module.exports = {
     },
     VALIDATOR_MONITOR: {
         Ozys: {
-            Endpoint: "https://va.bridge.orbitchain.io/v1/validator/report",
+            Endpoint: "https://va.bridge.orbitchain.io.prod.ozys.work/v1/validator/report",
             Interval: 60000,
         },
     },
