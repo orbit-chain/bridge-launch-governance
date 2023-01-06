@@ -48,3 +48,17 @@ node ton/gen.validator.js
 yarn
 node generateAddress.js <pk>
 ```
+
+- `generateAddress.js` returns:
+```
+{
+    "eth_address": "",
+    "tonV3R2Address": "",
+    "ethPublic": "",
+    "tonPublic": "",
+    "stacksCompressedAddress": "",
+    "stacksTestnetCompressedAddress": "",
+    "stacksCompressedPub": "",
+    "stacksCompressedHash160": ""
+}
+```
