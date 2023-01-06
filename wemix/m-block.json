@@ -1,0 +1,16 @@
+{
+    "name": "M-Block",
+    "eth_address": "0x366aCa7B69CC6E8b8fd1A94CD4eAa55395c3C2ff",
+    "tonV3R2Address": "EQBXhpNAZ9zdJuHC3WRIp-6kGKViGgID7PmY5A_83sIaVTQM",
+    "ethPublic": "0x04defd43b022410bf61502f2a0a53f1cdb5fd8bca266324d709420f6de02706cd385a4e7eee3429ab49a5161d3583d1b5aaf7e28cf0306cda02a2173cac5669556",
+    "tonPublic": "0x8ce38011a856687cd3b4a7e427a6de8eaf27979816224e57d257816bf7168973",
+    "stacksCompressedAddress": "SP23JKW710N99ZJXGB3CT2TTPR9F1X4HAJR0TFVM5",
+    "stacksTestnetCompressedAddress": "ST23JKW710N99ZJXGB3CT2TTPR9F1X4HAJT9ZAP4B",
+    "stacksCompressedPub": "0x02defd43b022410bf61502f2a0a53f1cdb5fd8bca266324d709420f6de02706cd3",
+    "stacksCompressedHash160": "8729f0e105529fcbb058d9a16b56c25e1e922a96",
+    "homepage": "https://m-block.io",
+    "contact": "validator@m-block.io",
+    "location": "KOREA",
+    "logo": "https://m-block.s3.ap-northeast-2.amazonaws.com/m-block.png",
+    "description": "Mblock is a virtual asset, NFT, and blockchain comprehensive service company of Maekyung Media Group.."
+}
