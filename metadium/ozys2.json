@@ -1,0 +1,16 @@
+{
+    "name": "Ozys_2",
+	"eth_address": "0x8d91b52349Bd17Db01D811dFD846F7650dd81987",
+	"tonV3R2Address": "EQA0vlU4V7QaymrB52lAlFAN-ucrXWsD-G1iZLybDTdGUjuM",
+	"ethPublic": "0x04fea365c998993994e6881b038ed36de7848e96700fb78fe9be9ba91f23d81f320ab0c0c28700cc906f4a75c5c0bec3bbc40365cc0ef56fa15c9ae293fb727ad8",
+	"tonPublic": "0xc931a4c02b9069fc7c6732c7a16bbeb87dd81dc1c6da775f2d49811113eeebcd",
+	"stacksCompressedAddress": "SP1DFZ6Q39RM44EB018S3FWCEM6ZP78TR4HFPM3BN",
+	"stacksTestnetCompressedAddress": "ST1DFZ6Q39RM44EB018S3FWCEM6ZP78TR4HVMZ7D4",
+	"stacksCompressedPub": "0x02fea365c998993994e6881b038ed36de7848e96700fb78fe9be9ba91f23d81f32",
+	"stacksCompressedHash160": "5aff9ae34e284239600a3237f18ea1bf63a35824",
+    "homepage": "https://ozys.io",
+    "contact": "support@ozys.io",
+    "location": "KOREA",
+    "logo": "https://static-allbit.s3.amazonaws.com/img/orbit/favicon.png",
+    "description": "A blockchain company that leads changes in the world and presents innovation"
+}
