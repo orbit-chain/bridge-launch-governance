@@ -1,0 +1,16 @@
+{
+    "name": "Wemix",
+    "eth_address": "0x1a7F7f4614dE3da240C995fEcd58F0E28434C574",
+    "tonV3R2Address": "EQDA7clesRmfu28_lJpOUSsO2JdBln4Re8Z7C6WvEqWXWIWC", 
+    "ethPublic": "0x041333a2455733f8695cbdb926a8c5c6f26dde308fc7fd1cca41b6bd080cd776f5684b468ce770f579a1c4dc116ee4e5ceba745f4243e6b2154427defb017eeda1",
+    "tonPublic": "0xfe8228a4c9f6b41e3e35955b678806d2050e1edb5dbb7b7c09e0bbec79138067",
+    "stacksCompressedAddress": "SP73SHDH72JDCMCB7XVMWSYC2RJG9YV21YKJ4H7A",
+    "stacksTestnetCompressedAddress": "ST73SHDH72JDCMCB7XVMWSYC2RJG9YV21XX5KA81",
+    "stacksCompressedPub": "0x031333a2455733f8695cbdb926a8c5c6f26dde308fc7fd1cca41b6bd080cd776f5",
+    "stacksCompressedHash160": "0e3cc5b138a4d6518b3f774e67cc162504fb620f",
+    "homepage": "https://wemix.com",
+    "contact": "hi_there@wemix.com",
+    "location": "KOREA",
+    "logo": "https://www.wemix.com/WEMIX3.0_180.png",
+    "description": "wemix is an experience-based, platform-driven & service-oriented decentralized blockchain protocol"
+}
