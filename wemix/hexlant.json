@@ -1,0 +1,16 @@
+{
+  "name": "Hexlant",
+  "eth_address": "0xa61AC33f602610A4dD879d33216eA74deD979AdF",
+  "tonV3R2Address": "EQBRgsaDT-ZI0OCcY3hmGDxxEh2cp86aOixWVwrj7EB5o1tw",
+  "ethPublic": "0x0403941f276de8f0b4afe26bc2fc3d6174f3927418b11a8ecdf5bd5e17d42dae889d41b7d78ad5a379b6ff006a6ccb43aca38ff0a580ad353bcd5eeb3952880844",
+  "tonPublic": "0x73d95160dcb510597c8f24e0dfc5068a8936ef4333c3679fec1065d983e02b8f",
+  "stacksCompressedAddress": "SP2BVVSC48JM2XPX1KVFJEMX22F5609GVPYYQX0BA",
+  "stacksTestnetCompressedAddress": "ST2BVVSC48JM2XPX1KVFJEMX22F5609GVPXAYZTPA",
+  "stacksCompressedPub": "0x0203941f276de8f0b4afe26bc2fc3d6174f3927418b11a8ecdf5bd5e17d42dae88",
+  "stacksCompressedHash160": "97bde58444a82edba19edf2753a213ca60261bb7",
+  "homepage": "https://hexlant.com",
+  "contact": "contact@hexlant.com",
+  "location": "Seoul, South Korea",
+  "logo": "http://hexlant.com.s3-website.ap-northeast-2.amazonaws.com/img/hexlant_logo.png",
+  "description": "Hexlant is a tech company that provides 'Octet', a blockchain wallet developer tool that is essential in the Web3 market"
+}
