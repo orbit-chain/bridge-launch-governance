@@ -1,0 +1,16 @@
+{
+    "name": "MOVELABS",
+    "eth_address": "0xE49893d7B7B0A42FA0A117F6dd82D85be65d65AD",
+    "tonV3R2Address": "EQDuGkyX7B-5NdjiwOoOp3jQiHmIEW88Q92Wmtuqw4R4plaT",
+    "ethPublic": "0x045c14429f1d8e5d359a92733f892e2ad65c9578c3b7669e35eb354ae5c5d9833b2128d0e73ea58b3b8ecd8f7fb16930f0b4497045c602cc9819e8506fd94825d7",
+    "tonPublic": "0x97fd955118f5ad24bc6f18c05dfff21951f293ca38b36e75a30e00f1f11b4f1d",
+    "stacksCompressedAddress": "SP1AEDW8KYXATA3ZRBQWWCNCAF0ZJH4Z8M4R68B1F",
+    "stacksTestnetCompressedAddress": "ST1AEDW8KYXATA3ZRBQWWCNCAF0ZJH4Z8M5ZG4CA7",
+    "stacksCompressedPub": "0x035c14429f1d8e5d359a92733f892e2ad65c9578c3b7669e35eb354ae5c5d9833b",
+    "stacksCompressedHash160": "54e6f113f755a50ff85df9c6558a783f2893e8a1",
+    "homepage": "https://movelabs.io",
+    "contact": "business@movelabs.io",
+    "location": "SINGAPORE",
+    "logo": "https://movelabs.io/assets/images/logo.png",
+    "description": ""
+}
