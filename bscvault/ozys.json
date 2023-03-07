@@ -1,6 +1,13 @@
 {
     "name": "Ozys",
     "eth_address": "0x09f49aa179864DbBF01D880F3C5E88D47fAfE317",
+    "tonV3R2Address": "EQDJLorKNEv2KqlEEYZAB2S3jY_dhM7e0PRlifdS59i2Kl30",
+    "ethPublic": "0x042a47e801f272c68337bd4cbc5264b46595836ba610cf80ccf5d8ebf8cc02578fdcb14423d31ae47778eb5a1d5d5660ff0fa2a896af1ea6721ee0a8731a04cef1",
+    "tonPublic": "0xeaff0f784fbf7d64e6d715025f3b6f469ce261d91de86e2dfaba2b98125238fc",
+    "stacksCompressedAddress": "SP1VKZR9DXGJEGK95G24NX7HV1XTW5VY9MJ9Q1XBJ",
+    "stacksTestnetCompressedAddress": "ST1VKZR9DXGJEGK95G24NX7HV1XTW5VY9MK07QHQQ",
+    "stacksCompressedPub": "0x032a47e801f272c68337bd4cbc5264b46595836ba610cf80ccf5d8ebf8cc02578f",
+    "stacksCompressedHash160": "773fe12dec24e84d2580895e9e3b0f75c2efc9a4",
     "homepage": "https://orbitchain.io",
     "contact": "help@orbitchain.io",
     "location": "KOREA",
