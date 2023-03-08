@@ -1,9 +1,16 @@
 {
     "name": "HashQuark",
     "eth_address": "0xBA97cc166892305b70F129F2047ad534855Bed66",
+    "tonV3R2Address":"EQDgY-67G-adQSpUYEdqZJj8VP4N1FAJy0y0Muc5c73hI3t1",
+    "ethPublic":"0x04f67b3b899cfc53a08b445157e90d553d85fad6d112792d0c12ee0c71ce22032d0435f836c4e28633edac5be30ad625830f182821a7c2d7a3517532f3a4518e6c",
+    "tonPublic":"0xcf9836361f8ba9a2f3a2476538de36dae4ae30db99ecac59ebf2244dedad47a3",
+    "stacksCompressedAddress":"SP2MT4000HWJ0RPHF62WBMAHNWMQGCWFA9WKSBQBP",
+    "stacksTestnetCompressedAddress":"ST2MT4000HWJ0RPHF62WBMAHNWMQGCWFA9Z60XB0M",
+    "stacksCompressedPub":"0x02f67b3b899cfc53a08b445157e90d553d85fad6d112792d0c12ee0c71ce22032d",
+    "stacksCompressedHash160":"a9a200008f240c5a2f30b8ba2a35e52f0671ea4f",
     "homepage": "https://hashquark.io/",
     "contact": "contract@hashquark.io",
     "location": "Hong Kong",
-    "logo": "https://raw.githubusercontent.com/hashquark-research/resource/master/logo.png",
+    "logo": "https://raw.githubusercontent.com/hashquark-research1/resource/master/logo.png",
     "description": "HashQuark, member of HashKey Group, is a staking+ ecosystem service provider focusing on public chains built upon the likes of PoS and DPoS. With HashQuark, token holders simply need to store tokens into their accounts and receive staking rewards in return."
 }
