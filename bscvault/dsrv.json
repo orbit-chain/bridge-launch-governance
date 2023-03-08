@@ -1,10 +1,14 @@
 {
     "name": "DSRV",
     "eth_address": "0xD462997c74695f63782335cD26f602ed161159fe",
+    "tonV3R2Address": "EQDK_Dk2RSrHNLvv2lUQwDoozdMK4GY1jbrJUEiHEKFVzUkc",
+    "tonPublic": "0x3878fdb8ceda9c2380b4a7a0f7d3fe6c37ac51d4001bfe47b835a46976df6afa",
+    "stacksCompressedAddress": "SP38KKS8RXPJTD1R347BH8NHXTZXDTKJBHP2JWQHE",
+    "stacksCompressedPub": "0x03db6ac24235381f79d54d89ad8676ee672fe3eaac46a07a19b8272ac34efe4d8e",
+    "stacksCompressedHash160": "d139e518eda5a6870321d714563dd7fadd4e4b8d",
     "homepage": "https://dsrvlabs.com/",
     "contact": "validator@dsrvlabs.com",
     "location": "KOREA",
-    "logo": "https://static-allbit.s3.amazonaws.com/img/orbit/favicon.png",
-    "logo": "https://s3.amazonaws.com/keybase_processed_uploads/785f1bdfd27e0b5aeebe10f0635beb05_360_360.jpg",
-    "description": "We strive to provide the best value for the networks we are genuinely excited about with proof-of-contribution, which is our guiding principle to go the extra mile to provide solutions vital to the network." 
+    "logo": "https://s3.amazonaws.com/keybase_processed_uploads/8349f3ab6852a8419c1987ad9096c605_360_360.jpg",
+    "description": "Distributed. Served."
 }
