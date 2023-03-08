@@ -1,6 +1,11 @@
 {
     "name": "Cosmostation",
     "eth_address": "0x4eC0061CC5ab90EAE61c9e89535bA9D35B4e5db0",
+    "tonV3R2Address": "EQCVOJqHtsxPtOG5GWMzJYlAx1dFTh7uHLSJyirryvgNUueA",
+    "tonPublic": "0xfa0f42f153056c1d781b589c81bd16aaf6411085beb6ba0f8bc60645925fbb2d",
+    "stacksCompressedAddress": "SP3BH0DT6P0ZW95D1WJ6FHXM488VHG9XVJ2YC916S",
+    "stacksCompressedPub": "0x02940a5116ef666cf9b46c9adefc0e125f52dbf5c3963ff3a3a2b8479dd729cf1a",
+    "stacksCompressedHash160": "d7103746b03fc495a1e48cf8f68442371827bb90",
     "homepage": "https://www.cosmostation.io",
     "contact": "admin@stamper.network",
     "location": "Seoul, South Korea",
