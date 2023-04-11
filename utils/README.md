@@ -46,10 +46,10 @@ node ton/gen.validator.js
 ### Generate STACKS, TON addresses by private key
 ```
 yarn
-node generateAddress.js <pk>
+node generateAddresses.js <pk>
 ```
 
-- `generateAddress.js` returns:
+- `generateAddresses.js` returns:
 ```
 {
     "eth_address": "",
