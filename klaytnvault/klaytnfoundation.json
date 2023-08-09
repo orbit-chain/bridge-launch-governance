@@ -1,0 +1,15 @@
+{
+    "name": "Klaytn Foundation",
+    "eth_address": "0xf7683c5bc0cce53dd7e19561e3781bd23f6456c6",
+    "tonV3R2Address": "EQCb1Biapkq_3noaEst8LYsqFvICVKRr8B6kRtG2CAT5BYw1",
+    "ethPublic": "0x040018c10b14672ea413b73e7a009730f9877a176100aea458595d48fff08b534179b0b61e9fa1c672f06ee40b3cbd659ce691831432311a6a379130df435e57c0",
+    "tonPublic": "0x9fdaca82934f1df5d803ae4752208fa7febdb9f14e798f6e97a761082ae10130",
+    "stacksCompressedAddress": "SPGRX8TKKPZEW43XZQP11SK8W7C2G3BAAVZ01BAC",
+    "stacksCompressedPub": "0x020018c10b14672ea413b73e7a009730f9877a176100aea458595d48fff08b5341",
+    "stacksCompressedHash160": "218ea3539dbeee107dfdec10e668e1d8280d6a56",
+    "homepage": "https://klaytn.foundation",
+    "contact": "partnership@klaytn.foundation",
+    "location": "Singapore",
+    "logo": "https://klaytn.foundation/wp-content/themes/klaytn/download/klaytn-symbol.png",
+    "description": "A SUSTAINABLE & VERIFIABLE BLOCKCHAIN BUILT FOR ALL"
+}
