@@ -1,0 +1,16 @@
+{
+    "name": "Trinito",
+    "eth_address": "0xb5eaf361cfa7e04bad2a454030e0e9dccb0a507b",
+    "ethPublic": "0x04ccd6a501d9c1772d835bfbdf2ac47b08e73518a7a80104338db4965a8e341ae8315db915afb0da3d096f8e62026d66f171115423ad7f3d17edeff813440b4724",
+    "tonV3R2Address": "EQBZbbO94cBDBMVy7BYCXCoRK4lp_8XvuFjLH_eeEpRzI4lY",
+    "tonPublic": "0x8f85f4a82a96b6b83bc364a297bb1a6403ae13857834f46a5223ffb1a268319c",
+    "stacksCompressedAddress": "SP31HBDPWQKFQK32HF5DY0NSY35PFYR0JCA2NVCBC",
+    "stacksTestnetCompressedAddress": "ST31HBDPWQKFQK32HF5DY0NSY35PFYR0JC9JTXTQT",
+    "stacksCompressedPub": "0x02ccd6a501d9c1772d835bfbdf2ac47b08e73518a7a80104338db4965a8e341ae8",
+    "stacksCompressedHash160": "c315b6dcbcdf798c51795be0573e196cff601262",
+    "homepage": "https://trinito.co",
+    "contact": "trinito@trinito.co",
+    "location": "KOREA",
+    "logo": "https://trinito.co/favicon.ico",
+    "description": "https://trinito.co"
+}
