@@ -1,5 +1,5 @@
 {
-    "name": "Coinplug",
+    "name": "CPlabs",
     "eth_address": "0x001ab6EA37D5b289129f4e6cC416c34f818DdF1B",
     "tonV3R2Address": "EQAk2r-Kf55cei1CdM11HS87Q53CNlEcH5muh9ZtZ2pofD15",
     "ethPublic": "0x04ac9d8a06bbdb68fbdedaf930512f4949f9ec9fb38702b56562809863c95a035694d19b603d319ef836e61dbd7092e844ad80a5b1d22f9c41a97cbd5dbf0ac4a8",
@@ -8,9 +8,9 @@
     "stacksTestnetCompressedAddress": "STJAA32AFP60KT8D6JD2N9MBAMA7AHQ9GJ7BMEZZ",
     "stacksCompressedPub": "0x02ac9d8a06bbdb68fbdedaf930512f4949f9ec9fb38702b56562809863c95a0356",
     "stacksCompressedHash160": "24a50c4a7d8c09e90d349a2aa68b55147546e984",
-    "homepage": "https://coinplug.com",
-    "contact": "stakehouse@coinplug.com",
+    "homepage": "https://cplabs.io",
+    "contact": "stakehouse@cplabs.io",
     "location": "KOREA",
-    "logo": "https://s3.ap-northeast-2.amazonaws.com/coinplug.images/static/coinplug-gr-logo-01.png",
-    "description": "Coinplug is leading the next generation of blockchain-based solutions and services, being a pioneer in the field since its founding in 2013 and with over 300 blockchain patents. We are continuously innovating through various services that connect daily life and blockchain technology."
+    "logo": "https://cplabs.s3.ap-northeast-2.amazonaws.com/CPLABS_ci4_black.png",
+    "description": "CPLABS is leading the next generation of blockchain-based solutions and services, being a pioneer in the field since its founding in 2013 and with over 300 blockchain patents. We are continuously innovating through various services that connect daily life and blockchain technology."
 }
