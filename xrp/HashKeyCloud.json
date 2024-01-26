@@ -1,0 +1,12 @@
+
+{
+    "name": "HashKey Cloud",
+    "eth_address": "0xebff0adef65d7f2a0913eeb9d58e5984eb711c1b",
+    "xrp_address": "r3TDUuvmfPdUAgmak9s3zeJ1Et5NwEbmGw",
+    "xrp_address_converted_for_orbit_mig": "0x0051bde25053ac941379992708922c8e3ca96d4144c65e372f",
+    "homepage": "https://www.hashkey.cloud/",
+    "contact": "contract@hashkey.cloud",
+    "location": "Hong Kong",
+    "logo": "https://github.com/HashKeyCloud/HashKey-Cloud-Logo/blob/main/hashkey%20cloud_256px.png",
+    "description": "HashKey Cloud, as a leading provider of global Web3 infrastructure and a core member of the HashKey Group, focuses on delivering professional, stable, secure,and compliant blockchain services to clients worldwide."
+}
