@@ -1,16 +1,6 @@
 {
-  "name": "Argonas",
-  "homepage": "",
-  "contact": "",
-  "location": "SINGAPORE",
-  "logo": "https://raw.githubusercontent.com/argonasofficial/AboutUs/main/logo.png",
-  "description": "https://raw.githubusercontent.com/argonasofficial/AboutUs/main/README.md",
-  "eth_address": "0x595f1a527527Fa28A8C5f294c49E51B9799fdAF0",
-  "tonV3R2Address": "EQA-rS9lQ0umPEEXk67_v0-2hNlWrYSaxfkX9HargOJDm66d",
-  "ethPublic": "0x04c89b295092dfaa0eb1d534ac69b82b01706ec54c5b9ffb9f65db84c26f7acb227066286c8cc02b3e48e6b827558d2c28bd4e270f2227ca038db5ba8e9f74ac71",
-  "tonPublic": "0xdddc307c8443d4f9e9623d41fce4c9c567e7b8f0119bf5287c729fae9597f8a2",
-  "stacksCompressedAddress": "SP21N9JJ207PZ1WP73ZH6CFCWCA8KK6FHH6ZNNB7N",
-  "stacksTestnetCompressedAddress": "ST21N9JJ207PZ1WP73ZH6CFCWCA8KK6FHH66KKND1",
-  "stacksCompressedPub": "0x03c89b295092dfaa0eb1d534ac69b82b01706ec54c5b9ffb9f65db84c26f7acb22",
-  "stacksCompressedHash160": "8354ca4201edf0f2c71fe2663d9c62913999f189"
+  "eth_address": "0x8c7aa8Bf53f881703e7a9672C863Eb6147e43214",
+  "tonV3R2Address": "EQDpmQH3SEUnq5JlwHnEGiNPuDa0kUxySRu3PCTPglga-LzR",
+  "ethPublic": "0x047b87c1fcb7959b873b6065a621cd3236e9d556b229589e188a93fa48c438ead9828d3fea9f129b744765b850bdf10cfa8b324992f4aaa7436d336787962d1f06",
+  "tonPublic": "0x9bde7a00d7cfb5fabb1ee481e2ce9a2ea139191e996da301dfe47dfc8101c332"
 }
