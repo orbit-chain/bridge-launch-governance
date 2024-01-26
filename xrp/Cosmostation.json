@@ -1,8 +1,8 @@
 {
     "name": "Cosmostation",
-    "eth_address": "0xee700731710b06d33820968d2f3c6850abb86b00",
-    "xrp_address": "rMBffXnw6yGQBx6MqvyoonE3DAWDRbt59K",
-    "xrp_address_converted_for_orbit_mig": "0x00dd4bc7149264971602690487d74168b4e23451fbfeffeb3e",
+    "eth_address": "0xe0538324f31d75d45328b903fb098c8540feb50d",
+    "xrp_address": "rDJXoML3krFmmwii53Fx4FocKJf1pHPZZq",
+    "xrp_address_converted_for_orbit_mig": "0x0086f24a64069a905ba2bbbd0139099fafc300db0cfcbeda80",
     "homepage": "https://www.cosmostation.io",
     "contact": "admin@stamper.network",
     "location": "Seoul, South Korea",
