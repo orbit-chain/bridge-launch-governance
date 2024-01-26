@@ -1,9 +1,9 @@
 {
     "name": "M-Block",
-    "eth_address": "0x656F7bF3394D0542591E422A7117C23F5621846E",
-    "stacks_address": "SP6N36TBKNC18PTYHX5PF8B32AZ4QFMWGXTGM5HK",
-    "stacks_pub": "0x04dabb80e51951fcbd5bb73d372c258aad1dff6f3748bd6ab67dae9d703d8d6afebe4e3d405d2c3fca0ceadeba98da1f1de67113c6479da794473ce2fdafc3350b",
-    "hash160": "0d519b4b9d58145b5e8f4b67a16312be4bbe9c87",
+    "eth_address": "0x66b297438aDCf071c474DE78f6dCbAa761c0CB59",
+    "stacks_address": "SP12KHTNJEDG6XWT85E05G6KRYJRYHKYGH887WC07",
+    "stacks_pub": "0x041c18acf313ba95f6c000c02c303f821a35de9647351b838bfb71cea721b1c5553b1aa0b8281430d7c24e211d52dee868b4d46cc13c5cbd9baeb485b929f6854a",
+    "hash160": "4538eab273606ef3482b80581a78f4b1e8cfd08a",
     "homepage": "https://m-block.io",
     "contact": "validator@m-block.io",
     "location": "KOREA",

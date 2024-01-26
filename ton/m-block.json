@@ -1,9 +1,9 @@
 {
     "name": "M-Block",
-    "eth_address": "0xa868Ed1DFf3E8c47EA59A11715B8Fef85a7E580b",
-    "tonV3R2Address": "EQBRkmUaY2g0fIo9WQPbSx83tYQTbpi3r3TIELSTAy57Lhfh",
-    "ethPublic": "0x043abc2789fbe46bfcba3a99e5387cda86b102f4214b87bf05ff89a25b963010c3b51695c6844cc0d56d5aa1debf5ad6aa2b69b9cf2dbece8da554b6e0ff20347b",
-    "tonPublic": "0x70100c3110be609d66b7b85a582757650f00b324aacbb6527e80684c1af10ebe",
+    "eth_address": "0x86b947C837f16156a0c2E0058A680C90e50CF1f6",
+    "tonV3R2Address": "EQDhoOdPh1gRnSfc2-gGU8R5avNu64kjUvUAm5xNeb0Y6JuU",
+    "ethPublic": "0x04f3f3c229e888bb8b9d87087a9cf81445f8330485a4dd50ee726dfa3cdd562a8d0d4256046cd934a5c3d71c2078f9025fc9d74b0875d6d754c648c225a098701c",
+    "tonPublic": "0xf9ab20422b68ccd6e0927b63687c0fe35422df15f2d4787ad23e21612b301817",
     "homepage": "https://m-block.io",
     "contact": "validator@m-block.io",
     "location": "KOREA",
