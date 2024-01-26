@@ -1,9 +1,9 @@
 {
     "name": "DeSpread",
-    "eth_address": "0x278747Bb147619350B3403e121818355e2CED772",
-    "tonV3R2Address": "EQDNy6Eceoc8ZeWgY-oyh796EBY96hjZNxnv1aSe0DL-ElIy",
-    "ethPublic": "0x04d299d9adc86492a27e615aaf6dcddd8a1cfe7ebca691b30b34b9afbd15f3757ed29a4f9961c7036df6f596979d2238c256a985268996d5b4b763162725295134",
-    "tonPublic": "0x7257240d1d7bc74658788a331304613ec0bee713eea0fad8d7243c97713f764d",
+    "eth_address": "0x622fCF4c4E08Fb355a65cddE1C072159770956b3",
+    "tonV3R2Address": "EQAJujtKeyhyb4tx4OW7jncaVO-9iWJLGtTqJBZtTBORGdlb",
+    "ethPublic": "0x04c4f090675381cc8ac19227fee7fcfa4270e93276a18410dbd7ba871a3976b388e949be94c53d8862b6527a64c86ac3ba45226a2b433ca762ea8b9cdb8baaff9a",
+    "tonPublic": "0xf6f5c54aee23e9cbc58965b4d26f8425fe05b67f2befc4e83ee8c0309e299b24",
     "homepage": "https://despread.io",
     "contact": "support@despread.io",
     "location": "KOREA",
