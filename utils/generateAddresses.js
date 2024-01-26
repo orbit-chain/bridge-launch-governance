@@ -53,7 +53,7 @@ const isTestnet = false;
     const addr = await walletContract.getAddress();
     const tonV3R2Address = addr.toString(true, true, true);
     const wallet = await IconWallet.loadPrivateKey(evmPK);
-    console.log({
+    console.log(JSON.stringify({
         eth_address: ethers.utils.computeAddress(
             `0x${key.getPublic().encode("hex")}`
         ),
@@ -61,5 +61,5 @@ const isTestnet = false;
         ethPublic: `0x${key.getPublic().encode("hex")}`,
         tonPublic: `0x${Buffer.from(keyPair.publicKey).toString("hex")}`,
         icon_address: wallet.getAddress()
-    });
+    }, null, 2));
 })();
