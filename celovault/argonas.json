@@ -1,9 +1,7 @@
 {
-    "name": "",
-    "eth_address": "0x1F2C5B5F96b56C1b55E95c35fe7d2aBAa42B5735",
-    "homepage": "",
-    "contact": "",
-    "location": "",
-    "logo": "",
-    "description": ""
+  "eth_address": "0x02fB660411c116c9e28d1e36c2f020346C47f2d7",
+  "tonV3R2Address": "EQBCdhbyXesCMZ0LGxvTeLfTm1ekeycEKIfVwd33HLENS7de",
+  "ethPublic": "0x04f90be4e824f06c44e441f6dbaff7c6482df0b1a030919635c858137330754db09a2157af122b08545e1925290032375d98ed7baf7453ec89fa18489907229381",
+  "tonPublic": "0xa0a183da80d67e6b71a06834296d28bab54a4c3f4bda40a76027630563124a2a",
+  "icon_address": "hx23a1116f3c13ff4be539c44d836b1fcebf6af2b5"
 }
