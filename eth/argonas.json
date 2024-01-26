@@ -1,4 +1,10 @@
 {
+  "name": "Argonas",
+  "homepage": "",
+  "contact": "",
+  "location": "SINGAPORE",
+  "logo": "https://raw.githubusercontent.com/argonasofficial/AboutUs/main/logo.png",
+  "description": "https://raw.githubusercontent.com/argonasofficial/AboutUs/main/README.md",
   "eth_address": "0x8c7aa8Bf53f881703e7a9672C863Eb6147e43214",
   "tonV3R2Address": "EQDpmQH3SEUnq5JlwHnEGiNPuDa0kUxySRu3PCTPglga-LzR",
   "ethPublic": "0x047b87c1fcb7959b873b6065a621cd3236e9d556b229589e188a93fa48c438ead9828d3fea9f129b744765b850bdf10cfa8b324992f4aaa7436d336787962d1f06",
