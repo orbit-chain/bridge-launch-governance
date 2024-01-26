@@ -1,0 +1,16 @@
+{
+    "name": "Algorith",
+    "eth_address": "0x44CA265903bDB65fFE7f4cee96F5549c3B0D3Bf6",
+    "tonV3R2Address": "EQCAI29Nuk1KQXJ0cPP_kotJqvVgcXg6_g2VRJtcbJk4RM3z",
+    "ethPublic": "0x0438add3efdb4bdd0b07f9f571eb28d6e157bb721d09616c3d635cb690fd61941ef9472b01ce6db44ac641b50801ff72022850548a898de0d725fa992b6c26b7b0",
+    "tonPublic": "0x9ef4f0a8d32a9fa5fd39e0bde37f7d978182e555c3075566e5494080ce9a6061",
+    "stacksCompressedAddress": "SPRN03QMPYZFEEMNM2C40DBNZGP7KNRTQ8QM1RQN",
+    "stacksTestnetCompressedAddress": "STRN03QMPYZFEEMNM2C40DBNZGP7KNRTQ8CYECV1",
+    "stacksCompressedPub": "0x0238add3efdb4bdd0b07f9f571eb28d6e157bb721d09616c3d635cb690fd61941e",
+    "stacksCompressedHash160": "31500ef4b7bef73a95a098403575fc2c79d71aba",
+    "homepage": "https://algorith.capital",
+    "contact": "info@algorith.capital",
+    "location": "KOREA",
+    "logo": "https://algorith.capital/assets/logo-icon.svg",
+    "description": "Algorith Capital applies quantitative analysis and science to optimize digital asset investments and consistently outperform Bitcoin."
+}

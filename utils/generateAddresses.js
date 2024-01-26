@@ -1,11 +1,8 @@
-const {
-    createAddress,
-    createStacksPrivateKey,
-    getAddressFromPrivateKey,
-    getPublicKey,
-    TransactionVersion,
-} = require("@stacks/transactions");
 const ethers = require("ethers");
+
+const IconService = require('icon-sdk-js');
+const { IconWallet } = IconService;
+
 const EC = require("elliptic").ec;
 const TonWeb = require("tonweb");
 
@@ -27,9 +24,19 @@ const isTestnet = false;
         })
     );
 
-    const evmPK = process.argv[2];
+    if(!process.argv[2]) {
+        console.log("[[private key not found]]")
+        return
+    }
+
+    const evmPK = process.argv[2].replace("0x", "");
+
+    if(evmPK.length !== 64) {
+        console.log("[[pk length must be 64]]")
+        return
+    }
     const key = ec.keyFromPrivate(evmPK);
-    const tonPK = Buffer.from(evmPK.replace("0x", ""), "hex").toString(
+    const tonPK = Buffer.from(evmPK, "hex").toString(
         "base64"
     );
 
@@ -42,17 +49,10 @@ const isTestnet = false;
         publicKey: keyPair.publicKey,
         wc: 0,
     });
-
+    
     const addr = await walletContract.getAddress();
     const tonV3R2Address = addr.toString(true, true, true);
-
-    const stacksUncompressedAddress = getAddressFromPrivateKey(evmPK, TransactionVersion.Mainnet);
-    const stacksUncompressedPub = `0x${Buffer.from(getPublicKey(createStacksPrivateKey(evmPK)).data).toString("hex")}`;
-
-    const stacksCompressedAddress = getAddressFromPrivateKey(`${evmPK}01`, TransactionVersion.Mainnet);
-    const stacksTestnetCompressedAddress = getAddressFromPrivateKey(`${evmPK}01`, TransactionVersion.Testnet);
-    const stacksCompressedPub = `0x${Buffer.from(getPublicKey(createStacksPrivateKey(evmPK + "01")).data).toString("hex")}`;
-
+    const wallet = await IconWallet.loadPrivateKey(evmPK);
     console.log({
         eth_address: ethers.utils.computeAddress(
             `0x${key.getPublic().encode("hex")}`
@@ -60,12 +60,6 @@ const isTestnet = false;
         tonV3R2Address,
         ethPublic: `0x${key.getPublic().encode("hex")}`,
         tonPublic: `0x${Buffer.from(keyPair.publicKey).toString("hex")}`,
-        // stacksUncompressedAddress,
-        // stacksUncompressedPub,
-        // stacksUncompressedHash160: createAddress(stacksUncompressedAddress).hash160,
-        stacksCompressedAddress,
-        stacksTestnetCompressedAddress,
-        stacksCompressedPub,
-        stacksCompressedHash160: createAddress(stacksCompressedAddress).hash160,
+        icon_address: wallet.getAddress()
     });
 })();

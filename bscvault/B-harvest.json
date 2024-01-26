@@ -1,9 +1,14 @@
 {
     "name": "B-Harvest",
     "eth_address": "0x7CA3ED34dd94C988b9E0FF6b9Ab00692667758Bd",
+    "tonV3R2Address": "EQDGDv7xtltpswmDe4u2YyB7dZJFk8MBUEiWWw91obHZ-xCt",
+    "tonPublic": "0x3532e3f6237fb4d3e00563f26d62fb0ccbb9e68a1e0df310a25be4f36ba944c6",
+    "stacksCompressedAddress": "SP3Y7C4Q0YMG3A42KES34N97ESW3084H32Z9691ZJ",
+    "stacksCompressedPub": "0x03c4d8c1e19c5d86a051863a456489bc3775255cd415fbd9cad2b083622be4f4df",
+    "stacksCompressedHash160": "fc7612e0f52035105376464aa4eecf0604122317",
     "homepage": "https://bharvest.io",
     "contact": "contact@bharvest.io",
     "location": "KOREA",
-    "logo": "",
+    "logo": "https://seoul-fileserver.s3.ap-northeast-2.amazonaws.com/bharvest-logo.png",
     "description": "B-Harvest focus on the value of high standard security & stability, active community participation on Bloackchain Network, and real world practical use-case of blockchain technology."
 }
