@@ -1,16 +1,12 @@
 {
     "name": "NEOPLY",
-    "eth_address": "0x921Ba90c9B7DbC40E8bc56a0a8De80112367D730",
-    "tonV3R2Address": "EQCrzpWM_BFrtAP_UpYTDynwVR8NYs1qHfexdY4CuhtzllVp",
-    "ethPublic": "0x04bc6e5dc7a0df7b54f1ab8aa8d0194b7b707f901929eadea7d635d1e84ce45039c3923329a3125125283ca665caaf91c141b232e7692f6e92959445ca9ea29772",
-    "tonPublic": "0xd2f14b2bf9cd6220dadda6792ab0d5304223f364628e7454d177ad67aca78eb6",
-    "stacksCompressedAddress": "SP30KE3MG4HD69XGJ7MHZ6A3XHRMQPN6K3ZNGXWTJ",
-    "stacksTestnetCompressedAddress": "ST30KE3MG4HD69XGJ7MHZ6A3XHRMQPN6K3X54N5H3",
-    "stacksCompressedPub": "0x02bc6e5dc7a0df7b54f1ab8aa8d0194b7b707f901929eadea7d635d1e84ce45039",
-    "stacksCompressedHash160": "c1370e90245a64f6123d23f3287d8e297b54d31f",
     "homepage": "https://neoply.io",
     "contact": "co_staking@neoply.com",
     "location": "KOREA",
     "logo": "https://neoply.io/bp_info/neoply_logo_256.png",
-    "description": "NEOPLY is a blockchain specialized company that stably operates various nodes."
+    "description": "NEOPLY is a blockchain specialized company that stably operates various nodes.",
+    "eth_address": "0xB07B60ce94f90C3C1586842f8AEB2ad1ad232EA6",
+    "tonV3R2Address": "EQDSgVljVciqEimNG8ysS_Bkan_WpnSFcYCsZ3MbGE3kAA7t",
+    "ethPublic": "0x041cb3c8e8b118420c9aba5c62d4eac524cf30fa24661b6b08ac71ac216167e744884d63fe45d5e7c7db379552a2b84e98d0283217364255d5f863528757e0fcc9",
+    "tonPublic": "0x3942895d93d15ceb8c908d67481b376a91a513bffc93a6321b42e0e22c123346"
 }

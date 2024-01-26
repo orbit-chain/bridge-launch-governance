@@ -1,14 +1,12 @@
 {
     "name": "StakeBowl",
-    "eth_address": "0x1de69A237540d8060B09c7d61849817862Bda889",
     "homepage": "https://stakebowl.io",
     "contact": "co_staking@neoply.com",
     "location": "KOREA",
     "logo": "https://static.bithumb.com/banner/img_stakebowl_logo_155_v2.png",
     "description": "Stake Bowl is a professional crypto operation brand that works toward the vision of maximizing the blockchain value in various areas ranging from node operation to digital asset storage and investment.",
-    "tonV3R2Address": "EQDwSlczRUIWj9rKHfxEaWq4y_iu1u8kTFwMAkFCbKEgW8A6", 
-    "tonPublic": "0xf06d83d250e677b2b26f5b2b31063f8a472842461032891e5b1d24fa54b9477a",
-    "stacksCompressedAddress": "SP3X5756PD2BSHFWBZD3ME2PXM34ZZ2W81E01Y1WB", 
-    "stacksCompressedPub": "0x025e9e676dc515d0a8f22a303cf3823b6a4de26ed6c0d2f50461a4c6e2fad43860",
-    "stacksCompressedHash160": "fa5394d6689798bf8bfb47470adda0c9ff8b880b"
+    "eth_address": "0x55ae16fE7a4014D46226B10318633a493C06dDd4",
+    "ethPublic": "0x045ffdf57c52f8b2e4272b72958e58cea36c46e522a6ad9ecf3156da6050db0564641bee7f6a0a92f0a0d6bf2a0b3074269c1db58eb023d300d47e3ac060ced039",
+    "tonV3R2Address": "EQBpduYbBVN_6WwVyuXR4MadvuS9HGJO5u5C0fM5n6FCUcPj", 
+    "tonPublic": "0xcad48253fd40a2ecd32dde182fb5a7224715278c8626577b297c49d09ed022e6"
 }
