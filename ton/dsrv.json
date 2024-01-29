@@ -1,9 +1,9 @@
 {
     "name": "DSRV",
-    "eth_address": "0x3E86D459745813aAD7EA7723B1AC7CC64c63136A",
-    "tonV3R2Address": "EQB881CXF75cLQehEnaYO2gjBFHjAJihqlU7QOHIbegh-VKA",
-    "ethPublic": "0x044851e3155ac2cbf5285efd5edefdf8372a407f3356bf10a104c00074f48a74a85c4e46a003bd5bfb3e470e75fdd8649242e09a4279de25994c2cdbb076b8336b",
-    "tonPublic": "0xe3e724bad8214de8b03f16efc1c58777ab1d8e9b185f2cbee1d7cef8547c4c4e",
+    "eth_address": "0x801B5BaF000a4C07d2FcC9822Ef8968ea669a1D1",
+    "tonV3R2Address": "EQDXk4Ir7PXdriNkzaWZ4pLf8hyVeTA4GEEqEJZuFy_Ls7kw",
+    "ethPublic": "0x04507f99591038d15eb361cb32010037b820c845828dbe37b011926a5b5a8f140ad1cea2314134a39084aed4c3cd94fbb19092846bd1173c53139df08e71e33df3",
+    "tonPublic": "0x12d1507f9d33efb379adf6bcaa05f550fdb89989a90b871b8d5378437db464a9",
     "homepage": "https://dsrvlabs.com/",
     "contact": "validator@dsrvlabs.com",
     "location": "KOREA",
