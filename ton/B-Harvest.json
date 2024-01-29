@@ -1,9 +1,9 @@
 {
     "name": "B-Harvest",
-    "eth_address": "0x80aeB92dB54CF2FE264C0A3b86a0B3Ac3d2297bd",
-    "tonV3R2Address": "EQA7CbrNh2xyyrPiwa018_VRUGqTGYqRAt21bvadxdgIUZB7",
-    "ethPublic": "0x04a37fb6d76345f1d6ced26a81d94b32fc1e143fcfe34b2a804f597e6fa1c9d943fa0eab230686e8c0f1350bf059d075e7d42a71fba9a67aaa26dd3c5c372828a3",
-    "tonPublic": "0x68de362ac0ee405f33196f3448b29f1c4892528564eaa319b9746b320e91583f",
+    "eth_address": "0xe3F5eF02033a361E1DCeE41E807A58382819b427",
+    "tonV3R2Address": "EQDE4D98vJc5DlZNbutErR5g2wfxU9-ar53He5xuzUmGd7wF",
+    "ethPublic": "0x04f2191009166f5b005daa5f6d669b7ef426505a7d89ac3e4ae529b16e16652b00dc8129a35da2371c2923f17d9dc4e8c841c04fe64357ad7996db9b1baddc6ae3",
+    "tonPublic": "0xb32377fcce23e00b8f0969fe22a3ce095b9e4affe5d1e9d8d1128898df133bdf",
     "homepage": "https://bharvest.io",
     "contact": "contact@bharvest.io",
     "location": "KOREA",
