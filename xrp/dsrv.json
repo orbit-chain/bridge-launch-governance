@@ -1,8 +1,7 @@
 {
     "name": "DSRV",
-    "eth_address": "0xb0330670d77610fa29f06d985117aed1299fcf9a",
-    "xrp_address": "rDqGLZ2ubh8BNMwfhynVhVnT8RSe4JseHG",
-    "xrp_address_converted_for_orbit_mig": "0x008cc2474a90b8aceb766cdba9376b0c3b5d65f33fcbec6223",
+    "eth_address": "0x0442154e00d0825271772beb6e6db278d2460866",
+    "xrp_address": "rfX2MEuhqcTQcLyVfo5beYFW7Q4Ud7eZKA",
     "homepage": "https://dsrvlabs.com/",
     "contact": "contact@dsrvlabs.com",
     "location": "KOREA",
