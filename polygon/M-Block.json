@@ -1,7 +1,7 @@
 {
     "name": "M-Block",
     "eth_address": "0x73Da6E2b5Fc3e7BdF79599Fbc067356c4F71Bbc9",
-    "tonV3R2Address": "'EQAVqVfh_dvvEz3eRYp_MBLFX10MkZfBYNiPD_aZrc7dQ5_a",
+    "tonV3R2Address": "EQAVqVfh_dvvEz3eRYp_MBLFX10MkZfBYNiPD_aZrc7dQ5_a",
     "tonPublic": "0x390a2782fe9bd2d849befec41a2195618d83f807c41c693e1a6ad31e2af79b22",
     "homepage": "https://m-block.io",
     "contact": "validator@m-block.io",
