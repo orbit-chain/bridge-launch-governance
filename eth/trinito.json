@@ -1,9 +1,9 @@
 {
     "name": "Trinito",
-    "eth_address": "0x7F4b332611818aE13c76f9222e2229f274Ded9BD",
-    "ethPublic": "0x04419b087dc6122bea784fc8483bb5ac4a4d25c4c6b54c1c42c5843b0470f7037d585fa38cdd00f07f8fd95cb29cc8b5bff1ba856d2125843f143554dc0563a9de",
-    "tonV3R2Address": "EQAIT6An6MuMYBRIF9d4_w6pAscUeGtmf9f7tLoKcCfNYKks",
-    "tonPublic": "0x007f300f400c6c5e4d5f1063b8a826ba41c45dd294ce10105405ac7bd2a29b88",
+    "eth_address": "0x86cec292d5d5DB6bA16722F0B01291426C4b61E2",
+    "ethPublic": "0x046bad0219361609ca9eccd8f21975fd0e60b0a541d60b6a43f00e15e72eb7dab35af2f17e8f826d4be44b3a13e2abcf9f641d22ed359ff9a01749a8df9307d651",
+    "tonV3R2Address": "EQCyp-wTktfstdgVSp82WL03xD34kH9U6ZXt8PILZOJB-LH2",
+    "tonPublic": "0x1b7f021f99f16d4c477f2c2198ec4bf4ff61949654655267df8e04e4732f66bf",
     "stacksCompressedAddress": "SP1T9PD0SRNG40QGGEXTWBAJS8NX204CAS2JK0D07",
     "stacksTestnetCompressedAddress": "ST1T9PD0SRNG40QGGEXTWBAJS8NX204CAS3YJN0JZ",
     "stacksCompressedPub": "0x02419b087dc6122bea784fc8483bb5ac4a4d25c4c6b54c1c42c5843b0470f7037d",
