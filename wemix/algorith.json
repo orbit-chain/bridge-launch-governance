@@ -1,9 +1,9 @@
 {
     "name": "Algorith",
-    "eth_address": "0x44CA265903bDB65fFE7f4cee96F5549c3B0D3Bf6",
-    "tonV3R2Address": "EQCAI29Nuk1KQXJ0cPP_kotJqvVgcXg6_g2VRJtcbJk4RM3z",
-    "ethPublic": "0x0438add3efdb4bdd0b07f9f571eb28d6e157bb721d09616c3d635cb690fd61941ef9472b01ce6db44ac641b50801ff72022850548a898de0d725fa992b6c26b7b0",
-    "tonPublic": "0x9ef4f0a8d32a9fa5fd39e0bde37f7d978182e555c3075566e5494080ce9a6061",
+    "eth_address": "0x9caC4F7dBBD34C14F6755194204eAEf2Ccf83fdC",
+    "tonV3R2Address": "EQAzoch8UJCtMkB7FPfvQsYvVaPwjE2hNRPasvCygQiUs1ja",
+    "ethPublic": "0x0429cc512273ae6b2edf407187d87983596612050b071442ea7fbca85a37b661201366dd31720da26fea808eaa35382f3051129b7aeafe310284e2ff24aae57126",
+    "tonPublic": "0xef5078fbfc7cbc5ef0b0a8e5b627b92d1a70589e7722fe6e0d4cba0c749ae827",
     "stacksCompressedAddress": "SPRN03QMPYZFEEMNM2C40DBNZGP7KNRTQ8QM1RQN",
     "stacksTestnetCompressedAddress": "STRN03QMPYZFEEMNM2C40DBNZGP7KNRTQ8CYECV1",
     "stacksCompressedPub": "0x0238add3efdb4bdd0b07f9f571eb28d6e157bb721d09616c3d635cb690fd61941e",
