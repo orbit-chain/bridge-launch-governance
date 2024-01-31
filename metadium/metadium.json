@@ -1,9 +1,9 @@
 {
     "name": "Metadium",
-    "eth_address": "0x722D3e6D7ffE09Ef5846E169412b77dF193A1766",
-    "tonV3R2Address": "EQA-orLs1J2o_3GKM4xzg4P1iXxWLP-_-drrz7fnGbnBLr-i",
-    "ethPublic": "0x0447b5bb594b2dc724f8a3f18dc0f9c4d11db8d16d470dbf3928196763d14ee933cce6882351f8cb0534cef94297bdb21ede8a4cd29e5f643df917d5de6fbb6abd",
-    "tonPublic": "0x8420bc0ab163c275e989e1ca7e51388ab69ed90a34b768afaca91d60b5e5a2ca",
+    "eth_address": "0x988457a14bc8b1071E7e077A54485D7B4fE02EA3",
+    "tonV3R2Address": "EQACMlfv7vV-XCVmdSJjJ_i-o3lYYIJIgzZKPdJ9gVKWmcc6",
+    "ethPublic": "0x042272d6417f9a2d7491df4feb2984f1dd1e25109e8d87a981b92478884d77877138141c0c7585046b54b63d04a167ffb9f17a416992e6b9b74f5cc5f9ee3bf09b",
+    "tonPublic": "0x6eeb0c35368a47e31b007ff5520d2b86d2c24a71cae6d89345d66ce111cf578a",
     "homepage": "https://metadium.com",
     "contact": "info@metadium.com",
     "location": "KOREA",
