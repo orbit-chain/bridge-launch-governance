@@ -1,12 +1,12 @@
 {
     "name": "TON Foundation",
-    "eth_address": "0xb6320DF60DB74df233F23890cb66619708Ce7244",
-    "tonV3R2Address": "EQArkyycDAUOjaT9myeq1L9_YVm1aD4FT1EAL-hrbH3WOxZI",
-    "ethPublic": "0x04df39ed4094a068d183402f881eedec48596a989806a8f18f4c4fd0946264116e754cceabc95056d2d652757a04857160a75821a48a09180b2c91b447264fbd82",
-    "tonPublic": "0xc7705e2efb757c037b3bcf4c63a633884b24bd36955b1e90c2639ce4d0dba198",
+    "ethAddress": "0xdeaA3A8dF5aaef0Efc9623C799dcF945DE0c91E1",
+    "tonV3R2Address": "EQBawclkjawhJMj9wrR2t9Z6VqoAvUt5EIfBPopEHSiqjwy3",
+    "ethPublic": "0x046425bcc62ede47bb86a5a882b9038bcf861057169b8ac75bf3751df9da83eae0a0b501157017f65206c7698c4d35dc2852484df9f5d5920667818a903d0a1f93",
+    "tonPublic": "0xe0152327a9d4b26a04d7e3f5c42a8d68709f30eb45c1494b9f388064411edfd6",
     "homepage": "https://ton.org",
     "contact": "society@ton.org",
     "location": "DUBAI",
     "logo": "https://ton.org/download/ton_symbol.png",
-    "description": "TON Foundation is a non-profit and non-incorporated DAO with governance from open-source community"
+    "description": "TON Foundation is a non-profit and non-incorporated DAO with governance from open-source community!"
 }
