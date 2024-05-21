@@ -1,8 +1,8 @@
 {
-    ethAddress: '0xd74d8D33994CC4411Ddf1dC94BDAedaf272a0511',`
-    tonV3R2Address: 'EQDSRceZHkGolrrw5yDgQE-WepMUlOCyOHD0zbjIbanRKQ2Y',
-    ethPublic: '0x0405b63bc0818f411e73356720a487a063c01af9eadf050ec996ecc74a84913d014035a8c87abeaf8970ecf15af880804d25c375acbc705db1ed6f58927e061f74',
-    tonPublic: '0x05662f7e68142ac8d69e8e4dc4d4e76229d18e44ac7a3805b606d7cc68f2401d',
+    "ethAddress": "0xd74d8D33994CC4411Ddf1dC94BDAedaf272a0511",
+    "tonV3R2Address": "EQDSRceZHkGolrrw5yDgQE-WepMUlOCyOHD0zbjIbanRKQ2Y",
+    "ethPublic": "0x0405b63bc0818f411e73356720a487a063c01af9eadf050ec996ecc74a84913d014035a8c87abeaf8970ecf15af880804d25c375acbc705db1ed6f58927e061f74",
+    "tonPublic": "0x05662f7e68142ac8d69e8e4dc4d4e76229d18e44ac7a3805b606d7cc68f2401d",
     "xrp_address": "rwSZQzBW4F1ZcTb7BwWSk9km3RU7NXbqbJ",
     "xrp_address_converted_for_orbit_mig": "0x00678e96ac5a78d1e0aaa4a20e9b2869383536a39ac3ad8b15"
 }
