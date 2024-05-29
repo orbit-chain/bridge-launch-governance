@@ -1,9 +1,9 @@
 
 {
     "name": "AhnLab Blockchain Company",
-    "eth_address": "0x4f68fb3Ec46BB60A3AcC855C73591dE0dB260416",
-    "tonV3R2Address": "EQB0T8hpOPwoJz59nJYSQZtNJlGY9nN-gAk7xrIaSgUBHpDX",
-    "tonPublic": "0xf5ce32a17e6c5eb9b0eed935d66e76f1995c178cf404f1897999a44c6ba9b7be",
+    "eth_address": "0x2f1ED0d583Ef74E8E5C12ABEA941cf8b1534C99C",
+    "tonV3R2Address": "EQBavjnz176EHxU64hkukrvNA2tB4x_FBhaSubfsv3zw2rDP",
+    "tonPublic": "0xe333e72eadad070bdb18e9c5f3aefd513f21cd55c6dca042ccc41dc883fe29ca",
     "stacksCompressedAddress": "SP1FT2Z4K714AXQ144HYM5N1EMK5Q1ZTQ26MZA582",
     "stacksCompressedPub": "0x0268f6ef62f41fa863828932507cd15f0d6a329d499300b7a5dd8f37d99059f949",
     "stacksCompressedHash160": "5fa17c933848aedc24247d42d42ea4cb70ff5711",
