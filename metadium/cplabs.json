@@ -1,9 +1,9 @@
 {
     "name": "CPlabs",
     "eth_address": "0xb8D67FA92b3223f0fB50C716375fe11D39A259F7",
-    "tonV3R2Address": "EQD7Xk42uEpgboeoIKVpIZ6EMFj1dXSTEvCk5gxhPHEjQ54V",
-    "ethPublic": "0x04b44810c3eacf04aec72b6405c9746b176559d1408baff194faf187cbf40cafb02fd103cacc2180a7c48b95923f42ead2b604185a54e1f3bb93e906612e280e0e",
-    "tonPublic": "0x39cb00d5ec079e82e90becebb288d212d7ad09fc9abb0792b87ec5b53d241ecf",
+    "tonV3R2Address": "EQC2TtDFbN2vu-BJdC1WSSEZntpSHlrBDz9Wtrl_DBaPtNcs",
+    "ethPublic": "0x042bada47620b39ac7d80249233317ff108b7cb06e2b16e7ec4750d63cf1aa23d3c210638bc49f1cb8d0edcb6f6e608164944e3b180bee8b954933f558f4d2c7c3",
+    "tonPublic": "0x7e17d1bb6a0be753cf3994f01e8076b41d3b9bdd0ac3a59d80b065d5c331f7ec",
     "homepage": "https://cplabs.io",
     "contact": "stakehouse@cplabs.io",
     "location": "KOREA",
