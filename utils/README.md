@@ -43,7 +43,7 @@ yarn
 node ton/gen.validator.js
 ```
 
-### Generate STACKS, TON addresses by private key
+### Generate TON, ICON addresses by private key
 ```
 yarn
 node generateAddresses.js <pk>
@@ -56,9 +56,6 @@ node generateAddresses.js <pk>
     "tonV3R2Address": "",
     "ethPublic": "",
     "tonPublic": "",
-    "stacksCompressedAddress": "",
-    "stacksTestnetCompressedAddress": "",
-    "stacksCompressedPub": "",
-    "stacksCompressedHash160": ""
+    "icon_address": "",
 }
 ```
