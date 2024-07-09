@@ -1,10 +1,11 @@
 {
     "name": "Nodeinfra",
 
-    "eth_address": "0x4BE2156756B9c2Bd424505E32E3B531E03de442b",
-    "tonV3R2Address": "EQCBfvr-4mILICtyjaBH2mkX1SuZgvJt1GJXUKax5wXlrxkb",
-    "ethPublic": "0x047fdc3fa5e72b2e3f536c7221d458879a02c0ea9f14fde5a5439ceef7b07968401a16abd658c7224c3f84bf30a0be8dc2c74a77140ebd98b55097a1033fe91977",
-    "tonPublic": "0xd395a2750f3c01a83f6cf6551f07a20b718040dd37e38aa3834114bf6407b795",
+    "eth_address": "0x1e3B165817b0f2935E1599eD5449a28f67D399EC",
+    "tonV3R2Address": "EQBj2kmyf0sDEDKC1Oj58-teHt4Cghwh4tMV1YMzUe3MeERu",
+    "ethPublic": "0x04a8e214f1e1bf27554cb1d68321619c8803af41ea5c8dac9a01ff3008a2e3a1134c7bf361a407e21df3308f2bf5ad6500c9d8cdc96333127facab22b29ba645b9",
+    "tonPublic": "0x17bbbe789886f5af85936f0cb01de4eea0a8b2540f5670669d747c4c5f9fabaf",
+    "icon_address": "hx3c8fc1b9a657731c7f83de655da5b6b49baa5024",
 
     "homepage": "https://nodeinfra.com",
     "contact": "security@nodeinfra.com",
