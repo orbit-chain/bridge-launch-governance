@@ -1,10 +1,12 @@
 {
   "dependencies": {
     "@stacks/transactions": "^3.2.0",
+    "crypto": "^1.0.1",
     "elliptic": "^6.5.4",
     "ethers": "^5.5.4",
+    "icon-sdk-js": "^0.0.18",
+    "ripple-keypairs": "0.10.1",
     "secp256k1": "^4.0.3",
-    "tonweb": "^0.0.54",
-    "icon-sdk-js": "^0.0.18"
+    "tonweb": "^0.0.54"
   }
 }

@@ -10,38 +10,34 @@ cd bridge-launch-governance/utils
 ```
 
 ## Create Validator Info
-### via Docker
-- It is possible to use the Docker image installed to some extent when operating the validator.
-- Can remove the generated image with the command below.
-```
-sudo docker system prune -af
-```
 ### via NVM
 - install [nvm](https://github.com/nvm-sh/nvm)
 ```
 nvm install v18.9.0
 npm install -g yarn
 ```
-### STACKS Layer1
-- Generate validator 
-```
-sudo docker build -f stacks/Dockerfile --tag stacks.layer1:1.0 .
-sudo docker run --rm stacks.layer1:1.0
-```
+<br/>
+
+### Generate validator addresses and private key
+- vault chain list: bsc, ethereum, klaytn, metadium, polygon, ton, wemix, ripple
 ```
 yarn
-node stacks/gen.validator.js
+node generatePk.js <chain>
 ```
-### TON Layer 1
-- Generate validator
+  
+- `generatePk.js` returns:
 ```
-sudo docker build -f ton/Dockerfile --tag ton.layer1:1.0 .
-sudo docker run --rm ton.layer1:1.0
+{
+    "eth_address": "",  // required
+    "ethPublic": "",  // required
+    "tonV3R2Address": "",
+    "tonPublic": "",
+    "icon_address": "",
+    "xrp_address": "",
+    "xrp_address_converted_for_orbit_mig": ""
+}
 ```
-```
-yarn
-node ton/gen.validator.js
-```
+<br/>
 
 ### Generate TON, ICON addresses by private key
 ```
