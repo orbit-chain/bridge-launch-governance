@@ -1,0 +1,14 @@
+{
+  "name": "Nodeinfra",
+
+  "homepage": "https://nodeinfra.com",
+  "contact": "security@nodeinfra.com",
+  "location": "KOREA",
+  "logo": "https://raw.githubusercontent.com/nodeinfra/publicinfo/main/nodeinfra_logo_256.png",
+  "description": "We run nodes for blockchain protocols.",
+
+  "eth_address": "0x6f4C058B382eFA5161086220cBe00a044336a860",
+  "ethPublic": "0x04b57c2648a7fd7e7b218b0c75acf77f050d6c295d9d076d440d27573edc6bfd25246918064383230cf2b05b9d084b767aaf0d29510ec35c0ed5418d020243b536",
+  "tonV3R2Address": "EQDHbzhV3ptEpLj3C8IKKXuEjol6dy2jdYS_4rlEL5gyrPQN",
+  "tonPublic": "0x0676af8eb28ed14eecbe0391d18aaef97786671b3700b6203d4ba558a6f540f0"
+}
