@@ -1,9 +1,9 @@
 {
     "name": "Wemix",
-    "eth_address": "0x3bdfC76Aaa6A60C93E6e5BbD61a95Ed1d8C9bfeb",
-    "tonV3R2Address": "EQBPcw_vw4RJXtMMDMy0nMepVrnH1KRqbAEYCJMav4vwboiD",
-    "ethPublic": "0x04349ec7e2a34789ba362a1d20cc4701f4c88da22460cda43779442325ed8de727a4c4073a73cd6952dc697bf1c3d4b24ba313f01e3a81dce329076f9eb3cad770",
-    "tonPublic": "0x1318111ced77149116a45b4c86173d3dbc183f7ccd6f9a0950ab2af4b2bd572e",
+    "eth_address": "0xB7a395ca14562e86452C105BDa5D278563c977bb",
+    "tonV3R2Address": "EQDOVk8gpzYKJk7i5ocSYB2M3oo3Kg3gG6GYJVwPnnkxPZYW",
+    "ethPublic": "0x04c3cefceac4148e1c57f72e91e6ba03209f1a0740a4ee535d33f72fb22de22d3ea0f0e98079da36732f6df5f734b762ab3a47465d7d504ae1560707ce83d229e8",
+    "tonPublic": "0xe549e6c8ff4f3b9755ede1722303a3bf62590fca3cb1b12fffbbfc42a407bea0",
     "stacksCompressedAddress": "SP73SHDH72JDCMCB7XVMWSYC2RJG9YV21YKJ4H7A",
     "stacksTestnetCompressedAddress": "ST73SHDH72JDCMCB7XVMWSYC2RJG9YV21XX5KA81",
     "stacksCompressedPub": "0x031333a2455733f8695cbdb926a8c5c6f26dde308fc7fd1cca41b6bd080cd776f5",
