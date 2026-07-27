@@ -1,0 +1,7 @@
+{
+	"name":"veat",
+	"eth_address": "0x68C550deFa2d4b46AAd58930c456A58466162d3F",
+  	"ethPublic": "0x04f5b87d359db40fd571d45eb353a0bbfdf03b954e89cc1f5563777c7d6d5672ad8f7b566ab6f4f1c481bf75221a5f71d049e1afb6fc607c10fa4d7f341420c3c4",
+  	"xrp_address": "rUNBEBKEd7vPtJWFVxmfjXmfiAtaMLcnLp",
+  	"xrp_address_converted_for_orbit_mig": "0x007b2757bef0b9fda9f6e6bc16115b350eec30d4f914d6d3c7"
+}
