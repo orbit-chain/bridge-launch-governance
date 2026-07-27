@@ -1,7 +1,7 @@
 {
 	"name":"veat",
-	"eth_address": "0x376B10C62D9DE4c0B338D0B1e9B7Fb8d406fF8b5",
-	"ethPublic": "0x04c98da6762806f9b6f744e3052c0a39443b68e667559f9974305130cc319c27b0af576ff466285f927294250f164609c8993d007a1252a59b4bbdd7565ee05fa7",
-	"xrp_address": "r3uSjMnuAy8KPg1YrxgxFFKMZHBF6JdNKA",
-	"xrp_address_converted_for_orbit_mig": "0x0056b3fd295c00c373b6d3088d5b09c3a0f373cace16ceea8e"
+	"eth_address": "0x68C550deFa2d4b46AAd58930c456A58466162d3F",
+  	"ethPublic": "0x04f5b87d359db40fd571d45eb353a0bbfdf03b954e89cc1f5563777c7d6d5672ad8f7b566ab6f4f1c481bf75221a5f71d049e1afb6fc607c10fa4d7f341420c3c4",
+  	"xrp_address": "rUNBEBKEd7vPtJWFVxmfjXmfiAtaMLcnLp",
+  	"xrp_address_converted_for_orbit_mig": "0x007b2757bef0b9fda9f6e6bc16115b350eec30d4f914d6d3c7"
 }

@@ -1,7 +1,7 @@
 {
 	"name": "veat",
-	"eth_address": "0x9c3D4bde26F1F0C332A0787781e1D68B37E0ac2e",
-	"ethPublic": "0x04e95bf1294caac0973d0eeed5841510b5af67ab36210b2fee2b0efd9aa8fb70bcdc98eba8fa803e941cf1e51641fca46c0e9a47a5cf1d1d740f244bbb543459c1",
-	"tonV3R2Address": "EQDKyvaD_0Wa1xpNhX3_jMI87c2ttP3Vtl8curh93XI5T4Bo",
-	"tonPublic": "0xe781fbd3aa52a55bce18fb4d550a42e105c3c50cfe30b0569a7894140038eab6"
+	"eth_address": "0xF37E553927537c63D97e96c99235608899Fd9D7d",
+  	"ethPublic": "0x049593794f29642dc1d2fa23d14b9001cf0617e612767315e40d4b6c2299730a3cc8a6986e4a22e03c9d64feaba574cebedd488cf8b0b9234f18d21ff26d184dce",
+  	"tonV3R2Address": "EQCbH90AvlP-GYrKUIQt5B6imZqeIIMLXmcNlYuMwXg_J_au",
+  	"tonPublic": "0x27c93563ca4ed3c394314431101e919c0bd8e1d7564aed0abf8d96c277160167"
 }

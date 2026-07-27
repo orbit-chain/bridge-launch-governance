@@ -1,8 +1,8 @@
 {
 	"name":"veat2",
-	"eth_address": "0x4151D3518E0A959872538Ac14dD93D364a9E177a",
-	"ethPublic": "0x043f1fe1af38b9cf42a6bead16be1e92ac2b85d1edc8fa50f912e2850acdd9796d73512e86e093c93a2429c49b791a9b59570d7763f61b7e57e46f9da9210b7644",
-	"tonV3R2Address": "EQAHkEBJ0kJJT9gofrnvKT12tDZe9_cSl9YgjQm0wqDcF5Zl",
-	"tonPublic": "0x4d7464d0cd7610c2112ba549ecdeac54dcc390275b3e7c1d2e075b96b23a4de9",
-	"icon_address": "hxbd694299d60ff9efe1faff214d307c2ade87f749"
+	"eth_address": "0x8F0EF4a6596B1460B2c20Acbb81EB02d842472CC",
+  	"ethPublic": "0x042d03b731fb2b7a442d26f6666a6087ab9c383a93d93e2525955a7405538219a4c9c2908ef9387bb78327dea9e2dfc75691b62904b8c16504cf00ce18dbaaca7e",
+  	"tonV3R2Address": "EQBMejO6ZdxersHkBFVVTTepai01m8E4-tFVRCqkOe3wBaD8",
+  	"tonPublic": "0x3d75c7fd20ef9296f175ec06e6129077c6658f3d1f335fc91d661bc0b3f2d801",
+  	"icon_address": "hxb9a51a2def3fc0ca6ec4912eec83e7526d89c933"
 }
