@@ -1,9 +1,9 @@
 {
     "name": "MOVELABS",
-    "eth_address": "0xA5d35FBc829Fac84387AA29E7171733B37B6a8a6",
-    "tonV3R2Address": "EQDCq7Ob5tqjQGkaRk7Jz_5TsCcKCoFEtKWSqt8S6D8d6Tkk",
-    "ethPublic": "0x045c1365f2fe674e721bce25e5bfe9e42eee8a7cb5b3853744af1bc3600e0080a628597c5d848708e812de2efd2e5c4a379a0bc5616b3ed252fecfdf080f416824",
-    "tonPublic": "0x882704f290c3196d5435defb752f40632d94482e562aa75f293cced2b4faf47d",
+    "eth_address": "0x10F376040407D5D77351a92DC18535C85b05Fd8E",
+    "ethPublic": "0x046f534a775cf77a64dabe74e3c023de91d38f409b35be4233ab64994d8512c26053d66f06361a0769f36d5ce6eca28b04bb39b28865740c50a3e12c31a6eb59b7",
+    "tonV3R2Address": "EQBNEHHj6xZdbjYOufyEIsyThFj7GDJXvJdUCyhFWFKQcqWc",
+    "tonPublic": "0x6a694df3e1ed4ce1d6d5d921591596bd08cc4d0868f84d4032ba8eb2af50b0e1",
     "homepage": "https://movelabs.io",
     "contact": "business@movelabs.io",
     "location": "SINGAPORE",
