@@ -1,9 +1,9 @@
 {
     "name": "BlockMedia",
-    "eth_address": "0x700622E14F8b045CE0577BEa140f3d3cfc2FAEbd",
-    "tonV3R2Address": "EQADbRuFe4At4pfQeAV_55eH7OrZs-G9_M80dP9YRjLAnIX8",
-    "ethPublic": "0x04d757861d3581b64176805f0a97620dcbfb2c69974b037039368830add4a9e5cfd589e4e11e6cee70229fc2866000227d9deeeb8a5ff5989fa40f6b37a9717e1a",
-    "tonPublic": "0x8378bd9732011f7ca2495d3ed132203ed2b6840e9f381f88b546c51a46b7b3d6",
+    "eth_address": "0xB043234d69BdA2C9123E27c7624d39F48224B428",
+    "ethPublic": "0x048816e7f9d2ad5f74d3c98851cc29f259c93be349e7d471a64d25e79cb5204e6c4cb2f30a8ececfb0bf9b0e91ceb9c844bdbddcc93b125f9ffcbe4beb11af5313",
+    "tonV3R2Address": "EQBgDHit_UyykPnAB-Tcb8cs8TuuP75O6w5ecCW_ErX72y12",
+    "tonPublic": "0x0e4b8da68d56b17942765b30090cce35b08756d6daf7a0438cbf629c00eb6af1",
     "homepage": "",
     "contact": "",
     "location": "KOREA",
