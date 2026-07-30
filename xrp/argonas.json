@@ -1,5 +1,6 @@
 {
-  "eth_address": "0xce487083393DBf30566dC3463DA123D31b9FDDfC",
-  "xrp_address": "r3bVbmZZ57VdsC3DyxpsCp7LAZNr87zVqu",
-  "xrp_address_converted_for_orbit_mig": "0x00534ee59542504b94009cabf2ac021d09b21b960b250d943c"
+  "eth_address": "0x67ee0355430a5670a78D480800817A37670EC1d2",
+  "ethPublic": "0x04eddb3c1fc39b96c930b795f7e12d9fddc0fe4220a1db8d1dd8f30871239f2cea83d1ff19ff836d5c8fed1d559a17ae92a619016ab9d6ac3eb795e88449548dbf",
+  "xrp_address": "r4N9JALhFa6r1Vwyz3M9CLKztZbSm2h12m",
+  "xrp_address_converted_for_orbit_mig": "0x00e8d6fc34a1abd30c4840341ae678f08a8ffb2931309d20f6"
 }

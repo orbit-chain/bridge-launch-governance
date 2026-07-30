@@ -5,8 +5,10 @@
   "location": "SINGAPORE",
   "logo": "https://raw.githubusercontent.com/argonasofficial/AboutUs/main/logo.png",
   "description": "https://raw.githubusercontent.com/argonasofficial/AboutUs/main/README.md",
-  "eth_address": "0x8c7aa8Bf53f881703e7a9672C863Eb6147e43214",
-  "tonV3R2Address": "EQDpmQH3SEUnq5JlwHnEGiNPuDa0kUxySRu3PCTPglga-LzR",
-  "ethPublic": "0x047b87c1fcb7959b873b6065a621cd3236e9d556b229589e188a93fa48c438ead9828d3fea9f129b744765b850bdf10cfa8b324992f4aaa7436d336787962d1f06",
-  "tonPublic": "0x9bde7a00d7cfb5fabb1ee481e2ce9a2ea139191e996da301dfe47dfc8101c332"
+  
+  "eth_address": "0xba78822d87BD254AAFFBf866d20eA34a02513DC2",
+  "ethPublic": "0x04e47cddc58c5b27cbe1361902851a30d0558899ea39d42301426d1ebcd59308fe9e4378e6c153f9372e1968f06b644ef2613a53283df4dbb78595937bf1959e22",
+  "tonV3R2Address": "EQBTPoQ7FuJUy8paKNtna7BnFnz4x37-2K1JrCrsJAsdb7WC",
+  "tonPublic": "0x78cf2ff6b617c5de2fac70c3eea7cd57d9f273abd3772b2f457d0362b125452d",
+  "icon_address": "hx3dfe2cb228dd90564c8489b5c549ea855f0e88e1"
 }
