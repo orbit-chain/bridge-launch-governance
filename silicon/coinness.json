@@ -1,7 +1,7 @@
 {
-    "eth_address": "0x98A86EB9Ff3B473E61B7b7a82Dd2c328323A66D0",
-    "tonV3R2Address": "EQAzFHWP1ROWTIh9yjhLDaGC71v_JXd8qX-YeLB2hz_gVa5l",
-    "ethPublic": "0x041a6a33a04439ff15aa5c2116748ad7efef36863a88692893e1608e462c68d2f865da6a12fbfa49aa3155857ee061e0c2f3bf9657cd34bd399edda1ef829f006d",
-    "tonPublic": "0x94dc3c21d75e2960a0bd8c1d98bc80227c1ce38eb4b3b19571c2333f652d9c23",
-    "icon_address": "hxcd38807810df9185f81c7ef7df1440d4f0eaa731"
+    "eth_address": "0x1f49172E83bFDd7A5f3c7DDbe2594e68a490A52a",
+    "ethPublic": "0x043861b2c9ad5c854b9e72e470383314cad436aecc0e7a1e59310e76c1f4c487fa06c6fba6329d89dc860a8e4c663327bbcca5221b349406b12a05d7716d92e8d1",
+    "tonV3R2Address": "EQCYhNRSylfIl2YzER2MI55989NiiH_G8tzUrVDa25lEDu7z",
+    "tonPublic": "0x71eec224529a3d9ccd1cf2cf7f211576c2b328b878f359c55c445369c9f2113c",
+    "icon_address": "hxef15aa1670ad46601d77a6e0bac1494aa509f949"
 }
